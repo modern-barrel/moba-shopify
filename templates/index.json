@@ -20,7 +20,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Customize any spirit to the perfect  flavor profile: yours. If you can dream it, you can drink it. MOBA is the only at-home tool designed to bring out your favorite tasting notes. So you can create signature spirits you won't find on any shelf.",
+            "text": "<p>Customize any spirit to the perfect  flavor profile: yours. If you can dream it, you can drink it. MOBA is the only at-home tool designed to bring out your favorite tasting notes. So you can create signature spirits you won't find on any shelf.<\/p>",
             "text_style": "body"
           }
         },
@@ -433,50 +433,6 @@
         "padding_bottom": 36
       }
     },
-    "1660591230042e62ae": {
-      "type": "image-with-text",
-      "blocks": {
-        "166059122973cd5bf4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Brought to you by spirit lovers  who also happen to be chemists",
-            "heading_size": "h1"
-          }
-        },
-        "166059122973cd5bf4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>That means controlled, repeatable results that are perfect for you palate. Every single time.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "166059122973cd5bf4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "ABOUT US",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "166059122973cd5bf4-0",
-        "166059122973cd5bf4-1",
-        "166059122973cd5bf4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16605966727a7b3c24": {
       "type": "testimonial",
       "blocks": {
@@ -576,7 +532,6 @@
     "1660590909f41c1550",
     "16605910197cc204bc",
     "16605924930e61ccea",
-    "1660591230042e62ae",
     "16605966727a7b3c24",
     "16605968182bdcb829"
   ]
