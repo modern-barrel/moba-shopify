@@ -10,10 +10,17 @@
             "heading_size": "h0"
           }
         },
+        "e9306c93-f83d-4669-aea1-fc3a04d66c0b": {
+          "type": "heading",
+          "settings": {
+            "heading": "The world’s first electric barrel",
+            "heading_size": "h1"
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Customize any spirit to the perfect  flavor profile: yours. If you can dream it, you can drink it. MOBA is the only at-home tool designed to bring out your favorite tasting notes. So you can create signature spirits you won't find on any shelf.",
             "text_style": "body"
           }
         },
@@ -31,6 +38,7 @@
       },
       "block_order": [
         "heading",
+        "e9306c93-f83d-4669-aea1-fc3a04d66c0b",
         "text",
         "button"
       ],
