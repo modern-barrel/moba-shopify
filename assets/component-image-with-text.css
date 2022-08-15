@@ -14,6 +14,7 @@
 
 .image-with-text__media {
   min-height: 100%;
+  border:none;
   overflow: visible;
 }
 
@@ -326,4 +327,13 @@
   .image-with-text .grid {
     margin-left: 0;
   }
+}
+
+.image-with-text--custom {
+  object-fit: contain !important;
+}
+
+.image-with-text {
+  background:var(--gradient-base-background-2);
+  max-width:100%;
 }

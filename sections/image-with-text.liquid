@@ -35,6 +35,7 @@
             loading="lazy"
             width="{{ section.settings.image.width }}"
             height="{{ section.settings.image.height }}"
+            class="image-with-text--custom"
           >
         {%- else -%}
           {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
