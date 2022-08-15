@@ -135,22 +135,14 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
+              "heading": "",
               "menu": "footer"
             }
           }
         },
         "block_order": [
           "42848927-2d0f-4827-a5d1-a7c09582e12e",
-          "footer-0",
-          "footer-1"
+          "footer-0"
         ],
         "settings": {
           "color_scheme": "accent-2",
