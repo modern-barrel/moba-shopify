@@ -372,8 +372,9 @@
         "1660592493d3f17105-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/image_15.png",
+            "title": "Sweet",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -381,8 +382,9 @@
         "1660592493d3f17105-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/image_13.png",
+            "title": "Oak",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -390,8 +392,9 @@
         "1660592493d3f17105-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/image_16.png",
+            "title": "Spice",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -399,8 +402,9 @@
         "fe919408-b6dc-4fd4-b496-cf0d534ed691": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/image_14.png",
+            "title": "Smoke",
+            "text": "",
             "link_label": "",
             "link": ""
           }
