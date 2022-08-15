@@ -114,10 +114,56 @@
         "padding_top": 40,
         "padding_bottom": 40
       }
+    },
+    "16605829960d1664e5": {
+      "type": "multicolumn",
+      "blocks": {
+        "1660582996b988b067-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "",
+            "text": "<p>“The fact that I can make a smooth dark rum without much sweetness is amazing.”<\/p>",
+            "link_label": "asdf",
+            "link": ""
+          }
+        },
+        "1660582996b988b067-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "",
+            "text": "<p>“We love being able to mature barrel aged spirit blends that don’t exist yet.”<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660582996b988b067-0",
+        "1660582996b988b067-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "multicolumn"
+    "multicolumn",
+    "16605829960d1664e5"
   ]
 }
