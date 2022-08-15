@@ -342,20 +342,22 @@
   margin:0 auto;
 }
 
-.image-container {
-  position:absolute;
-  z-index: 5;
-  width:100%;
-  top:50%;
-  transform: translateY(-50%);
-}
-
-.image-container-parent {
-  margin:250px 0;
-}
-
-.custom-image-with-text__text-item {
-  padding:8rem;
+@media screen and (min-width:772px) {
+  .image-container {
+    position:absolute;
+    z-index: 5;
+    width:100%;
+    top:50%;
+    transform: translateY(-50%);
+  }
+  
+  .image-container-parent {
+    margin:250px 0;
+  }
+  
+  .custom-image-with-text__text-item {
+    padding:8rem;
+  }
 }
 
 .custom-image-with-text__text-item .red-header {
