@@ -123,10 +123,10 @@
         "padding_bottom": 40
       }
     },
-    "16605829960d1664e5": {
-      "type": "multicolumn",
+    "1660595518d98d7a1a": {
+      "type": "testimonial",
       "blocks": {
-        "1660582996b988b067-0": {
+        "166059551844c338cc-0": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/5stars.png",
@@ -136,7 +136,7 @@
             "link": ""
           }
         },
-        "1660582996b988b067-1": {
+        "166059551844c338cc-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/5stars.png",
@@ -148,8 +148,8 @@
         }
       },
       "block_order": [
-        "1660582996b988b067-0",
-        "1660582996b988b067-1"
+        "166059551844c338cc-0",
+        "166059551844c338cc-1"
       ],
       "settings": {
         "title": "",
@@ -159,13 +159,13 @@
         "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "",
+        "button_label": "Button label",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 48
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1660583423c6284e7f": {
@@ -481,7 +481,7 @@
   "order": [
     "image_banner",
     "multicolumn",
-    "16605829960d1664e5",
+    "1660595518d98d7a1a",
     "1660583423c6284e7f",
     "166059048173988bdc",
     "1660590691c25726e4",
