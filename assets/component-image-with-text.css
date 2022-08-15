@@ -361,3 +361,8 @@
 .custom-image-with-text__text-item .red-header {
   color: #C08751;
 }
+
+.red-button {
+  background-color: #C08751;
+  color:#fff;
+}
