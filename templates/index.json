@@ -453,8 +453,8 @@
         "166060028445b9630e-2": {
           "type": "button",
           "settings": {
-            "button_label": "ABOUT USaaA",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_label": "ABOUT US",
+            "button_link": "shopify:\/\/pages\/about"
           }
         }
       },
