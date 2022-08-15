@@ -334,6 +334,11 @@
 }
 
 .image-with-text {
-  background:var(--gradient-base-background-2);
+  background:var(--color-foreground);
   max-width:100%;
+}
+
+.custom-page-width {
+  max-width:80%;
+  margin:0 auto;
 }
