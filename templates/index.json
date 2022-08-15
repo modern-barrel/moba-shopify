@@ -308,6 +308,33 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "1660590909f41c1550": {
+      "type": "rich-text",
+      "blocks": {
+        "1660590909298b27e7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET MOBA",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1660590909298b27e7-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -316,6 +343,7 @@
     "16605829960d1664e5",
     "1660583423c6284e7f",
     "166059048173988bdc",
-    "1660590691c25726e4"
+    "1660590691c25726e4",
+    "1660590909f41c1550"
   ]
 }
