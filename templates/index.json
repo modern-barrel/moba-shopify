@@ -366,51 +366,51 @@
         "padding_bottom": 52
       }
     },
-    "1660591089ce60cb92": {
-      "type": "multicolumn",
+    "16605924930e61ccea": {
+      "type": "custom-multicolumn",
       "blocks": {
-        "1660591089de09036d-0": {
+        "1660592493d3f17105-0": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "1660591089de09036d-1": {
+        "1660592493d3f17105-1": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "1660591089de09036d-2": {
+        "1660592493d3f17105-2": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "2d25aba0-387b-4519-9f6b-bca750d6b012": {
+        "fe919408-b6dc-4fd4-b496-cf0d534ed691": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "1660591089de09036d-0",
-        "1660591089de09036d-1",
-        "1660591089de09036d-2",
-        "2d25aba0-387b-4519-9f6b-bca750d6b012"
+        "1660592493d3f17105-0",
+        "1660592493d3f17105-1",
+        "1660592493d3f17105-2",
+        "fe919408-b6dc-4fd4-b496-cf0d534ed691"
       ],
       "settings": {
         "title": "",
@@ -483,7 +483,7 @@
     "1660590691c25726e4",
     "1660590909f41c1550",
     "16605910197cc204bc",
-    "1660591089ce60cb92",
+    "16605924930e61ccea",
     "1660591230042e62ae"
   ]
 }
