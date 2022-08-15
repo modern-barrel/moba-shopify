@@ -273,6 +273,7 @@
 
 .testimonial-card > * {
   background:#fff;
+  text-align: left;
 }
 
 .testimonial-copy {
