@@ -433,6 +433,50 @@
         "padding_bottom": 36
       }
     },
+    "16606002844bcc595b": {
+      "type": "image-with-text-custom",
+      "blocks": {
+        "166060028445b9630e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brought to you by spirit lovers  who also happen to be chemists",
+            "heading_size": "h1"
+          }
+        },
+        "166060028445b9630e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That means controlled, repeatable results that are perfect for you palate. Every single time.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "166060028445b9630e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "ABOUT USaaA",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "166060028445b9630e-0",
+        "166060028445b9630e-1",
+        "166060028445b9630e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
+        "height": "large",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "16605966727a7b3c24": {
       "type": "testimonial",
       "blocks": {
@@ -484,8 +528,9 @@
         "1660596818e778b168-0": {
           "type": "column",
           "settings": {
-            "title": "MOBA",
-            "text": "<p>Takes 5 days<br\/>Adds unique flavor profiles<br\/>Completely hands-off<br\/>Tried-and-tested results<\/p>",
+            "image": "shopify:\/\/shop_images\/Group_20.png",
+            "title": "",
+            "text": "<p>✅     Takes 5 days<br\/>✅     Adds unique flavor profiles<br\/>✅     Completely hands-off<br\/>✅     Tried-and-tested results<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -493,7 +538,8 @@
         "1660596818e778b168-1": {
           "type": "column",
           "settings": {
-            "title": "SPIRALS\/ MINI BARRELS",
+            "image": "shopify:\/\/shop_images\/Group_21.png",
+            "title": "",
             "text": "<p>Takes months - years<br\/>Adds oak flavor only<br\/>Taste and top up often<br\/>Result can be undrinkable<\/p>",
             "link_label": "",
             "link": ""
@@ -510,7 +556,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
@@ -519,50 +565,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "16606002844bcc595b": {
-      "type": "image-with-text-custom",
-      "blocks": {
-        "166060028445b9630e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Brought to you by spirit lovers  who also happen to be chemists",
-            "heading_size": "h1"
-          }
-        },
-        "166060028445b9630e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>That means controlled, repeatable results that are perfect for you palate. Every single time.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "166060028445b9630e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "ABOUT USaaA",
-            "button_link": "shopify:\/\/collections\/all"
-          }
-        }
-      },
-      "block_order": [
-        "166060028445b9630e-0",
-        "166060028445b9630e-1",
-        "166060028445b9630e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
-        "height": "large",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     }
   },
@@ -576,8 +578,8 @@
     "1660590909f41c1550",
     "16605910197cc204bc",
     "16605924930e61ccea",
+    "16606002844bcc595b",
     "16605966727a7b3c24",
-    "16605968182bdcb829",
-    "16606002844bcc595b"
+    "16605968182bdcb829"
   ]
 }
