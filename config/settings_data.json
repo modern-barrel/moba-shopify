@@ -124,6 +124,14 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "42848927-2d0f-4827-a5d1-a7c09582e12e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Asset_3_4x_1.png",
+              "image_width": 130,
+              "alignment": ""
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -137,19 +145,12 @@
               "heading": "Info",
               "menu": "footer"
             }
-          },
-          "footer-2": {
-            "type": "text",
-            "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
           }
         },
         "block_order": [
+          "42848927-2d0f-4827-a5d1-a7c09582e12e",
           "footer-0",
-          "footer-1",
-          "footer-2"
+          "footer-1"
         ],
         "settings": {
           "color_scheme": "accent-2",
