@@ -218,32 +218,20 @@
         "16605904811c0e296b-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Crafting sip-worthy spirits is almost as easy as pouring yourself a drink<\/p>",
             "heading_size": "h1"
           }
         },
         "16605904811c0e296b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16605904811c0e296b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Just add the spirit of your choice and a set of oak tiles. <br\/>MOBA will take care of the rest. <\/p>"
           }
         }
       },
       "block_order": [
         "16605904811c0e296b-0",
-        "16605904811c0e296b-1",
-        "16605904811c0e296b-2"
+        "16605904811c0e296b-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -253,6 +241,73 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1660590691c25726e4": {
+      "type": "multicolumn",
+      "blocks": {
+        "166059069102fc72a8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group.png",
+            "title": "1.",
+            "text": "<p>Pour in a bottle of your favorite spirit <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059069102fc72a8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_1.png",
+            "title": "2.",
+            "text": "<p>Add your preferred <br\/>set of oak tiles   <br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059069102fc72a8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_2.png",
+            "title": "3.",
+            "text": "<p>Sit back while MOBA works its magic <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "93fed546-f61b-49af-a16e-5b24c7d80832": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_3.png",
+            "title": "4.",
+            "text": "<p>Enjoy a brand new <br\/>flavor profile <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166059069102fc72a8-0",
+        "166059069102fc72a8-1",
+        "166059069102fc72a8-2",
+        "93fed546-f61b-49af-a16e-5b24c7d80832"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -260,6 +315,7 @@
     "multicolumn",
     "16605829960d1664e5",
     "1660583423c6284e7f",
-    "166059048173988bdc"
+    "166059048173988bdc",
+    "1660590691c25726e4"
   ]
 }
