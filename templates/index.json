@@ -159,11 +159,55 @@
         "padding_top": 48,
         "padding_bottom": 48
       }
+    },
+    "1660583423c6284e7f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1660583423c31b72e9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Maturing spirits can take decades. MOBA takes a week.",
+            "heading_size": "h1"
+          }
+        },
+        "1660583423c31b72e9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>MOBA gives your spirits all the flavor of traditional oak barrels. But faster. (And we’ve done the science to prove it.) <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660583423c31b72e9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660583423c31b72e9-0",
+        "1660583423c31b72e9-1",
+        "1660583423c31b72e9-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "multicolumn",
-    "16605829960d1664e5"
+    "16605829960d1664e5",
+    "1660583423c6284e7f"
   ]
 }
