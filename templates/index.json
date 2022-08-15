@@ -540,7 +540,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Group_21.png",
             "title": "",
-            "text": "<p>Takes months - years<br\/>Adds oak flavor only<br\/>Taste and top up often<br\/>Result can be undrinkable<\/p>",
+            "text": "<p>❌     Takes months - years<br\/>❌      Adds oak flavor only<br\/>❌      Taste and top up often<br\/>❌       Result can be undrinkable<\/p>",
             "link_label": "",
             "link": ""
           }
