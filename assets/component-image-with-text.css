@@ -334,7 +334,6 @@
 }
 
 .image-with-text {
-  background:var(--color-foreground);
   max-width:100%;
 }
 

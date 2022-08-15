@@ -226,3 +226,37 @@
     display: list-item;
   }
 }
+
+.custom-multicolumn-list__item {
+  margin:2rem 0;
+}
+
+.custom-multicolumn-card {
+  background-size:cover !important;
+  background-repeat: no-repeat !important;
+  padding:4rem;
+  margin:0 2rem;
+  min-height:200px;
+  position: relative;
+}
+
+.custom-multicolumn-card-text {
+  padding:0;
+  position: absolute;
+  width:100%;
+  text-align: center;
+  height:100%;
+  transform:translate(-50%, -50%);
+  background:rgba(194, 139, 87, 0.6);
+  top:50%;
+  left:50%;
+}
+
+.custom-multicolumn-card-text h3 {
+  color:#fff;
+  font-size:3rem;
+  position: absolute;
+  transform:translate(-50%, -50%);
+  top:50%;
+  left:50%;
+}
