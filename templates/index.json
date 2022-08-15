@@ -506,9 +506,52 @@
         "166059667233893b0f-1"
       ],
       "settings": {
-        "title": "Testimonial",
+        "title": "",
         "heading_size": "h1",
         "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16605968182bdcb829": {
+      "type": "multicolumn",
+      "blocks": {
+        "1660596818e778b168-0": {
+          "type": "column",
+          "settings": {
+            "title": "MOBA",
+            "text": "<p>Takes 5 days<br\/>Adds unique flavor profiles<br\/>Completely hands-off<br\/>Tried-and-tested results<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660596818e778b168-1": {
+          "type": "column",
+          "settings": {
+            "title": "SPIRALS\/ MINI BARRELS",
+            "text": "<p>Takes months - years<br\/>Adds oak flavor only<br\/>Taste and top up often<br\/>Result can be undrinkable<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660596818e778b168-0",
+        "1660596818e778b168-1"
+      ],
+      "settings": {
+        "title": "The only tried-and-tested way  to customize spirits at home",
+        "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "center",
@@ -534,6 +577,7 @@
     "16605910197cc204bc",
     "16605924930e61ccea",
     "1660591230042e62ae",
-    "16605966727a7b3c24"
+    "16605966727a7b3c24",
+    "16605968182bdcb829"
   ]
 }
