@@ -54,8 +54,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "",
+            "text": "<p>Turn up the smokiness in your favorite tequila<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -63,8 +64,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "",
+            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -72,8 +74,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "",
+            "text": "<p>Create a rum-bourbon blend no no producer has released<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -81,8 +84,9 @@
         "083ed602-6a5f-43eb-8288-1d0edfcc1499": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "",
+            "text": "<p>Transform a mixing whiskey into a sipper you can drink neat<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -107,8 +111,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     }
   },
