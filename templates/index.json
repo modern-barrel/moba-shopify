@@ -603,6 +603,7 @@
         "16606023761b54cff2-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0786.jpg",
             "title": "Sip",
             "text": "",
             "link_label": "",
@@ -612,6 +613,7 @@
         "16606023761b54cff2-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0066.jpg",
             "title": "Mix",
             "text": "",
             "link_label": "",
@@ -621,6 +623,7 @@
         "16606023761b54cff2-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0253.jpg",
             "title": "Share",
             "text": "",
             "link_label": "",
@@ -630,6 +633,7 @@
         "dbd1f282-3269-482a-aac3-e2e7c70537b0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0355_c4f1149e-3726-4437-a8a8-b511a0d93eb4.jpg",
             "title": "Gift",
             "text": "",
             "link_label": "",
