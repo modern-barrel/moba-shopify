@@ -566,6 +566,99 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1660602420bfa3fd58": {
+      "type": "rich-text",
+      "blocks": {
+        "16606024208e934c67-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Your first 3 rounds are on us<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16606024208e934c67-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each MOBA purchase comes with 3 free oak tile sets of your choice. So you can get your signature collection started, on the house.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16606024208e934c67-0",
+        "16606024208e934c67-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1660602376d46c8bf8": {
+      "type": "custom-multicolumn",
+      "blocks": {
+        "16606023761b54cff2-0": {
+          "type": "column",
+          "settings": {
+            "title": "Sip",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16606023761b54cff2-1": {
+          "type": "column",
+          "settings": {
+            "title": "Mix",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16606023761b54cff2-2": {
+          "type": "column",
+          "settings": {
+            "title": "Share",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "dbd1f282-3269-482a-aac3-e2e7c70537b0": {
+          "type": "column",
+          "settings": {
+            "title": "Gift",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16606023761b54cff2-0",
+        "16606023761b54cff2-1",
+        "16606023761b54cff2-2",
+        "dbd1f282-3269-482a-aac3-e2e7c70537b0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -580,6 +673,8 @@
     "16605924930e61ccea",
     "16606002844bcc595b",
     "16605966727a7b3c24",
-    "16605968182bdcb829"
+    "16605968182bdcb829",
+    "1660602420bfa3fd58",
+    "1660602376d46c8bf8"
   ]
 }
