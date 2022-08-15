@@ -206,7 +206,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -335,6 +335,143 @@
         "padding_top": 24,
         "padding_bottom": 100
       }
+    },
+    "16605910197cc204bc": {
+      "type": "rich-text",
+      "blocks": {
+        "1660591019dbb04e86-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>What’s your pleasure?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1660591019dbb04e86-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each set of oak tiles has been traditionally prepared to bring out the flavors you love most. Without any guesswork. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1660591019dbb04e86-0",
+        "1660591019dbb04e86-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 52
+      }
+    },
+    "1660591089ce60cb92": {
+      "type": "multicolumn",
+      "blocks": {
+        "1660591089de09036d-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660591089de09036d-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660591089de09036d-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2d25aba0-387b-4519-9f6b-bca750d6b012": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660591089de09036d-0",
+        "1660591089de09036d-1",
+        "1660591089de09036d-2",
+        "2d25aba0-387b-4519-9f6b-bca750d6b012"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "SHOP ALL OAK TILES",
+        "button_link": "shopify:\/\/collections\/all",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1660591230042e62ae": {
+      "type": "image-with-text",
+      "blocks": {
+        "166059122973cd5bf4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brought to you by spirit lovers  who also happen to be chemists",
+            "heading_size": "h1"
+          }
+        },
+        "166059122973cd5bf4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That means controlled, repeatable results that are perfect for you palate. Every single time.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "166059122973cd5bf4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "ABOUT US",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166059122973cd5bf4-0",
+        "166059122973cd5bf4-1",
+        "166059122973cd5bf4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -344,6 +481,9 @@
     "1660583423c6284e7f",
     "166059048173988bdc",
     "1660590691c25726e4",
-    "1660590909f41c1550"
+    "1660590909f41c1550",
+    "16605910197cc204bc",
+    "1660591089ce60cb92",
+    "1660591230042e62ae"
   ]
 }
