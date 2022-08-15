@@ -154,7 +154,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "center",
@@ -476,6 +476,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16605966727a7b3c24": {
+      "type": "testimonial",
+      "blocks": {
+        "166059667233893b0f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“I was able to take local distillers’ white whiskey products and turn them into something amazing.  Before they were only approachable as mixers, but this turned them into sippers.”",
+            "text": "<p>Rich J, Philadelphia, PA<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059667233893b0f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“I was skeptical at first, but was really impressed by the way the tequila came out. It took a bottle that cost less than $20 and turned it into something that tasted like $70 or $80 per bottle.”",
+            "text": "<p>Michael L, Chicago, IL<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166059667233893b0f-0",
+        "166059667233893b0f-1"
+      ],
+      "settings": {
+        "title": "Testimonial",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -488,6 +533,7 @@
     "1660590909f41c1550",
     "16605910197cc204bc",
     "16605924930e61ccea",
-    "1660591230042e62ae"
+    "1660591230042e62ae",
+    "16605966727a7b3c24"
   ]
 }
