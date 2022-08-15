@@ -1,0 +1,63 @@
+{
+  "sections": {
+    "166060467267a4230d": {
+      "type": "image-banner",
+      "blocks": {
+        "1660604672d7201c6d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your “signature” drink just got more personal",
+            "heading_size": "h2"
+          }
+        },
+        "1660604672d7201c6d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>MOBA: The world’s first electric barrel. <\/strong><\/p><p>You don't have to be a bartender, a mixologist, or a distiller to enjoy spirits exactly the way you like them. <br\/>MOBA lets you customize any spirit to your perfect taste profile. Right on your countertop.  <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660604672d7201c6d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "BUY NOW",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1660604672d7201c6d-0",
+        "1660604672d7201c6d-1",
+        "1660604672d7201c6d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hero-img.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "166060467267a4230d",
+    "main"
+  ]
+}
