@@ -105,11 +105,79 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16606604740c81541a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1660660474eeb92434-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "",
+            "text": "<p>Turn up the smokiness in your favorite tequila<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660660474eeb92434-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "",
+            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660660474eeb92434-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "",
+            "text": "<p>Create a rum-bourbon blend no distiller has tried<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9334c2b0-5b08-4f0b-ba00-a4707cff6479": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "",
+            "text": "<p>Transform a mixing whiskey into a sipper you can drink neat<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660660474eeb92434-0",
+        "1660660474eeb92434-1",
+        "1660660474eeb92434-2",
+        "9334c2b0-5b08-4f0b-ba00-a4707cff6479"
+      ],
+      "settings": {
+        "title": "Crafting sip-worthy spirits is almost as easy as pouring yourself a drink",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "GET MOBA",
+        "button_link": "shopify:\/\/collections\/all",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "166060467267a4230d",
     "main",
-    "1660659304cd2918a5"
+    "1660659304cd2918a5",
+    "16606604740c81541a"
   ]
 }
