@@ -131,6 +131,37 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16606772699653e6a1": {
+      "type": "rich-text",
+      "blocks": {
+        "16606772696ccbf0ca-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Crafting sip-worthy spirits is almost as easy as pouring yourself a drink<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16606772696ccbf0ca-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Just add the spirit of your choice and a set of oak tiles. <br\/>MOBA will take care of the rest. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16606772696ccbf0ca-0",
+        "16606772696ccbf0ca-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -138,6 +169,7 @@
     "main",
     "1660666023fda473f7",
     "1660666057268d14d7",
-    "16606661096da63aa4"
+    "16606661096da63aa4",
+    "16606772699653e6a1"
   ]
 }
