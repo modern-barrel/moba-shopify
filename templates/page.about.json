@@ -280,6 +280,104 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16606822236d93f39b": {
+      "type": "rich-text",
+      "blocks": {
+        "16606822236b20b2bb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>600+ experiments and blind taste tests later, MOBA hit home bars (with rave reviews)<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16606822236b20b2bb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At that point, we could confidently say that the spirit that came out of the barrel would taste better than the spirit we started with. <br\/>And we weren't the only ones who thought so:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16606822236b20b2bb-0",
+        "16606822236b20b2bb-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1660682272ad9103c7": {
+      "type": "circle-multicolumn",
+      "blocks": {
+        "16606822723ecee909-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_cc5dbd24-9ca7-4987-a146-83d49bf781c7.png",
+            "title": "Eli D, New York, NY",
+            "text": "<p>\"The end product is really good... exceptionally smooth.\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16606822723ecee909-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_1_28a99cc5-afec-404d-9ffc-cabebbd1581b.png",
+            "title": "Brian K, Arlington, VA",
+            "text": "<p>\"The fact that I can make a smooth dark rum without as much sweetness is amazing.\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16606822723ecee909-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_2_eaa13feb-8b36-4c6c-ab98-fe39f69dde8e.png",
+            "title": "Michael L, Chicago, IL",
+            "text": "<p>\"It took a bottle that cost less than $20 and turned it into something that tasted like $70 or $80 per bottle.\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "34f3bc9d-a73f-42de-af87-9c9978a04d36": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_3_086b1be5-5666-4317-a783-7e684e1ed76b.png",
+            "title": "Michael and Sylvia, San Francisco, CA",
+            "text": "<p>\"We love being able to mature barrel aged spirit blends that don't exist yet.\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16606822723ecee909-0",
+        "16606822723ecee909-1",
+        "16606822723ecee909-2",
+        "34f3bc9d-a73f-42de-af87-9c9978a04d36"
+      ],
+      "settings": {
+        "title": "Circle Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -290,6 +388,8 @@
     "1660680765d4b723af",
     "166068083668db7a23",
     "1660680871dfdc6106",
-    "1660681373db391611"
+    "1660681373db391611",
+    "16606822236d93f39b",
+    "1660682272ad9103c7"
   ]
 }
