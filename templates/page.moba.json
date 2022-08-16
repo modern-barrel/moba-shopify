@@ -172,12 +172,147 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "166066060731f779b1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1660660607e9906a54-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make any spirit taste smoother and more complex",
+            "heading_size": "h1"
+          }
+        },
+        "1660660607e9906a54-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You'll see the most dramatic difference with clear spirits like X and Y. But your aged spirits like X and Y will also gain more character. No matter what, you'll love the results. (We did 600+ blind taste tests to make sure.)<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660660607e9906a54-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "1660660607e9906a54-0",
+        "1660660607e9906a54-1",
+        "1660660607e9906a54-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0375.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1660660837118c2e32": {
+      "type": "image-with-text",
+      "blocks": {
+        "16606608370140e03f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dial up the tasting notes you love most",
+            "heading_size": "h1"
+          }
+        },
+        "16606608370140e03f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Do you prefer a sweeter tequila? A smokier whiskey? MOBA has you covered. And with hundreds more flavor combinations to come, you can craft a spirit that's nearly perfect for your palate. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "16606608370140e03f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "16606608370140e03f-0",
+        "16606608370140e03f-1",
+        "16606608370140e03f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0047.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166066099139f6cc00": {
+      "type": "image-with-text",
+      "blocks": {
+        "1660660991416928da-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Create spirit profiles you won't find on any shelf",
+            "heading_size": "h1"
+          }
+        },
+        "1660660991416928da-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ever had a ______ ? Or a ________? We haven't either. With MOBA, you can experiment with flavor combinations and spirit categories even the distillers haven't tried. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660660991416928da-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "1660660991416928da-0",
+        "1660660991416928da-1",
+        "1660660991416928da-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0316.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "166060467267a4230d",
     "main",
     "1660659304cd2918a5",
-    "16606604740c81541a"
+    "16606604740c81541a",
+    "166066060731f779b1",
+    "1660660837118c2e32",
+    "166066099139f6cc00"
   ]
 }
