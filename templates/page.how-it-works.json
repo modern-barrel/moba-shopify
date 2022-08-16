@@ -63,6 +63,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "image_overlap": true,
         "padding_top": 0,
         "padding_bottom": 16
       }
@@ -94,6 +95,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "image_overlap": false,
         "padding_top": 16,
         "padding_bottom": 16
       }
@@ -125,6 +127,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "image_overlap": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
