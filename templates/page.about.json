@@ -1,5 +1,33 @@
 {
   "sections": {
+    "16606801048d71b348": {
+      "type": "image-banner",
+      "blocks": {
+        "166068010453965734-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We're bringing a spirit of creativity to distilled spirits",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "166068010453965734-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0303.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -9,6 +37,7 @@
     }
   },
   "order": [
+    "16606801048d71b348",
     "main"
   ]
 }
