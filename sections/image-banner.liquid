@@ -55,9 +55,9 @@
   <div class="banner__content banner__content--{{ section.settings.desktop_content_position }} page-width">
     <div class="banner__box content-container content-container--full-width-mobile color-{{ section.settings.color_scheme }} gradient">
       
-      {%- if section.settings.image_2 != blank -%}
+      {%- if section.settings.image_3 != blank -%}
 
-          {{ section.settings.image_2 | image_url: width: 1500 | image_tag:
+          {{ section.settings.image_3 | image_url: width: 1500 | image_tag:
             loading: 'lazy',
             width: section.settings.image_2.width,
             height: image_height_2,
@@ -108,7 +108,7 @@
     },
     {
       "type": "image_picker",
-      "id": "image_2",
+      "id": "image_3",
       "label": "t:sections.image-banner.settings.image_2.label"
     },
     {
