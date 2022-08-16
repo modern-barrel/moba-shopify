@@ -32,13 +32,109 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1660666023fda473f7": {
+      "type": "rich-text",
+      "blocks": {
+        "166066602309ab3ac1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>But this isn't rapid aging<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "166066602309ab3ac1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We can't speed up time. (We're chemists, not wizards.)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166066602309ab3ac1-0",
+        "166066602309ab3ac1-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_23.png",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "1660666057268d14d7": {
+      "type": "rich-text",
+      "blocks": {
+        "16606660573ebeea6f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>And older doesn't always mean better<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16606660573ebeea6f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You've probably heard that the longer time spirits spend in oak barrels, the better they taste. But that isn't exactly true. <br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16606660573ebeea6f-0",
+        "16606660573ebeea6f-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_24.png",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "16606661096da63aa4": {
+      "type": "rich-text",
+      "blocks": {
+        "16606661090a784733-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Good flavor is all about maturation<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16606661090a784733-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Which is just a fancy word for the chemical exchange that takes place between spirits and wood. <\/p><p><br\/>(And that's something we can speed up.)<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16606661090a784733-0",
+        "16606661090a784733-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_25.png",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "166066308861ce1ac1",
-    "main"
+    "main",
+    "1660666023fda473f7",
+    "1660666057268d14d7",
+    "16606661096da63aa4"
   ]
 }
