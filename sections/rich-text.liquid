@@ -22,7 +22,7 @@
   <div class="rich-text content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
     <div class="rich-text__wrapper rich-text__wrapper--{{ section.settings.desktop_content_position }}{% if section.settings.full_width %} page-width{% endif %}">
       <div class="rich-text__blocks {{ section.settings.content_alignment }}">
-        
+
         {%- if section.settings.image != blank -%}
           {%-liquid
             assign image_height = section.settings.image.width | divided_by: section.settings.image.aspect_ratio
@@ -189,6 +189,12 @@
       "id": "full_width",
       "default": true,
       "label": "t:sections.rich-text.settings.full_width.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "image_overlap",
+      "default": false,
+      "label": "Make image overlap"
     },
     {
       "type": "header",
