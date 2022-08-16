@@ -423,7 +423,7 @@
       "settings": {
         "caption": "",
         "heading": "Frequently Asked Questions",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "background-1",
