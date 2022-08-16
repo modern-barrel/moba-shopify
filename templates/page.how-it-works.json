@@ -316,6 +316,94 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1660679389a2de6e0e": {
+      "type": "image-with-text",
+      "blocks": {
+        "166067938905563cbd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Designed for taste first. Speed second.",
+            "heading_size": "h1"
+          }
+        },
+        "166067938905563cbd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This isn't just about crafting spirits faster. This is about crafting high-quality spirits that rival your favorite bottles. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "166067938905563cbd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET MOBA",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "166067938905563cbd-0",
+        "166067938905563cbd-1",
+        "166067938905563cbd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0142.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166067942533c0de5a": {
+      "type": "image-with-text",
+      "blocks": {
+        "16606794259f574c48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't just take our word for it. Taste the difference yourself.",
+            "heading_size": "h1"
+          }
+        },
+        "16606794259f574c48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your purchase of MOBA comes with three free sets of oak tiles of your choice. So you can do your own taste tests, on the house.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16606794259f574c48-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET MOBA",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "16606794259f574c48-0",
+        "16606794259f574c48-1",
+        "16606794259f574c48-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0809.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -327,6 +415,8 @@
     "16606772699653e6a1",
     "166067765832bd6608",
     "166067882923f6ef01",
-    "1660678858b8b9c132"
+    "1660678858b8b9c132",
+    "1660679389a2de6e0e",
+    "166067942533c0de5a"
   ]
 }
