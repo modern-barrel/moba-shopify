@@ -290,3 +290,11 @@
     padding:2rem;
   }
 }
+
+.circle-card {
+  background: none !important;
+}
+
+.circle-card-image {
+  border-radius:50%;
+}
