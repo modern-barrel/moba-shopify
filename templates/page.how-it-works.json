@@ -162,6 +162,59 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "166067765832bd6608": {
+      "type": "circle-multicolumn",
+      "blocks": {
+        "166067765800a10970-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166067765800a10970-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166067765800a10970-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166067765800a10970-0",
+        "166067765800a10970-1",
+        "166067765800a10970-2"
+      ],
+      "settings": {
+        "title": "Circle Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -170,6 +223,7 @@
     "1660666023fda473f7",
     "1660666057268d14d7",
     "16606661096da63aa4",
-    "16606772699653e6a1"
+    "16606772699653e6a1",
+    "166067765832bd6608"
   ]
 }
