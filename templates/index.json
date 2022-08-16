@@ -20,7 +20,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Customize any spirit to the perfect  flavor profile: yours. If you can dream it, you can drink it. MOBA is the only at-home tool designed to bring out your favorite tasting notes. So you can create signature spirits you won't find on any shelf",
+            "text": "<p>Customize any spirit to the perfect  flavor profile: yours. If you can dream it, you can drink it. MOBA is the only at-home tool designed to bring out your favorite tasting notes. So you can create signature spirits you won't find on any shelf<\/p>",
             "text_style": "body"
           }
         },
@@ -238,6 +238,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "image_overlap": false,
         "padding_top": 40,
         "padding_bottom": 24
       }
@@ -332,6 +333,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "image_overlap": false,
         "padding_top": 24,
         "padding_bottom": 100
       }
@@ -362,6 +364,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "image_overlap": false,
         "padding_top": 72,
         "padding_bottom": 52
       }
@@ -593,6 +596,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "image_overlap": false,
         "padding_top": 28,
         "padding_bottom": 28
       }

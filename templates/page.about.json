@@ -31,8 +31,8 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 16,
+        "padding_bottom": 0
       }
     },
     "166068059024303dbd": {
@@ -76,7 +76,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 16
       }
     },
@@ -148,8 +148,8 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "166068083668db7a23": {
@@ -213,6 +213,73 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1660681373db391611": {
+      "type": "multicolumn",
+      "blocks": {
+        "1660681373b2fc3441-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_30.png",
+            "title": "",
+            "text": "<p>Work on a small scale, one bottle at a time<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660681373b2fc3441-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_31.png",
+            "title": "",
+            "text": "<p>Mature spirits in days, not decades<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660681373b2fc3441-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_32.png",
+            "title": "",
+            "text": "<p>Bring out unique tasting notes that alternatives couldn't<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7d9b4381-1c9f-4ae2-a240-264be84bf152": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_33.png",
+            "title": "",
+            "text": "<p>Improve flavor in a controlled <br\/>and measurable way<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660681373b2fc3441-0",
+        "1660681373b2fc3441-1",
+        "1660681373b2fc3441-2",
+        "7d9b4381-1c9f-4ae2-a240-264be84bf152"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -222,6 +289,7 @@
     "1660680684b76ec859",
     "1660680765d4b723af",
     "166068083668db7a23",
-    "1660680871dfdc6106"
+    "1660680871dfdc6106",
+    "1660681373db391611"
   ]
 }
