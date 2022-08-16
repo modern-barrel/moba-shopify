@@ -304,6 +304,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1660661144dd02e86b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1660661144c1112a6f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tell your friends you barrelled the tequila yourself",
+            "heading_size": "h1"
+          }
+        },
+        "1660661144c1112a6f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Because they're going to ask why your margaritas taste so good. Just know that you might become the designated \"drinks person.\" (Don't say we didn't warn you.)<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660661144c1112a6f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "1660661144c1112a6f-0",
+        "1660661144c1112a6f-1",
+        "1660661144c1112a6f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0541.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -313,6 +357,7 @@
     "16606604740c81541a",
     "166066060731f779b1",
     "1660660837118c2e32",
-    "166066099139f6cc00"
+    "166066099139f6cc00",
+    "1660661144dd02e86b"
   ]
 }
