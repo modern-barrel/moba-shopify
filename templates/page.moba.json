@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Your “signature” drink just got more personal",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "1660604672d7201c6d-1": {
@@ -22,17 +22,25 @@
           "settings": {
             "button_label_1": "BUY NOW",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
+          }
+        },
+        "cf132214-26e2-46b1-b3c4-c6f4fc7b8e54": {
+          "type": "heading",
+          "settings": {
+            "heading": "**And get your first 3 tile sets on the house",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
         "1660604672d7201c6d-0",
         "1660604672d7201c6d-1",
-        "1660604672d7201c6d-2"
+        "1660604672d7201c6d-2",
+        "cf132214-26e2-46b1-b3c4-c6f4fc7b8e54"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hero-img.jpg",
