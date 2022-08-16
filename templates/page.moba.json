@@ -348,6 +348,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "166066147723d0e643": {
+      "type": "multicolumn",
+      "blocks": {
+        "166066147704baa569-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_20.png",
+            "title": "",
+            "text": "<p>✅ Takes 5 days<br\/>✅ Adds unique flavor profiles<br\/>✅ Completely hands-off<br\/>✅ Tried-and-tested results<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166066147704baa569-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_21.png",
+            "title": "",
+            "text": "<p>❌ Takes months - years<br\/>❌ Adds oak flavor only<br\/>❌ Taste and top up often<br\/>❌ Result can be undrinkable<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166066147704baa569-0",
+        "166066147704baa569-1"
+      ],
+      "settings": {
+        "title": "No topping up. No months of waiting. And no ruined bottles.",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -358,6 +403,7 @@
     "166066060731f779b1",
     "1660660837118c2e32",
     "166066099139f6cc00",
-    "1660661144dd02e86b"
+    "1660661144dd02e86b",
+    "166066147723d0e643"
   ]
 }
