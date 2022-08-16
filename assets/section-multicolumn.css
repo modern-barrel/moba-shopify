@@ -133,7 +133,7 @@
 }
 
 .multicolumn-card__info {
-  padding: 2.5rem;
+  padding: 3rem;
 }
 
 .background-none .multicolumn-card__info {
@@ -198,6 +198,7 @@
 .multicolumn-card {
   position: relative;
   box-sizing: border-box;
+  background: none !important;
 }
 
 .multicolumn-card > .multicolumn-card__image-wrapper--full-width:not(.multicolumn-card-spacing) {
@@ -297,4 +298,5 @@
 
 .circle-card-image {
   border-radius:50%;
+  border:8px solid #fff;
 }
