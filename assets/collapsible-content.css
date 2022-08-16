@@ -43,7 +43,7 @@
   margin: 0 auto;
   padding-right: 1.5rem;
   padding-left: 1.5rem;
-  max-width: 73.4rem;
+  max-width: 130rem;
 }
 
 .collapsible-content__header {
@@ -118,4 +118,28 @@
       padding-left: 7rem;
     }
   }
+}
+
+.collapsible-content__grid .grid__item {
+  background: rgb(var(--color-base-accent-2));
+}
+
+.accordion details {
+  padding:2rem 4rem;
+  border-bottom:1px solid #fff;
+}
+
+.accordion svg {
+  color: #fff;
+}
+
+.collapsible-content__grid h3 {
+  color: #C08751;
+  font-style:normal;
+  font-size:2.5rem;
+}
+
+.accordion__content {
+  color:#fff;
+  width:70%;
 }
