@@ -34,10 +34,194 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "166068059024303dbd": {
+      "type": "image-with-text",
+      "blocks": {
+        "e9d7e36d-3a92-410b-bcdd-dbf1a819a281": {
+          "type": "caption",
+          "settings": {
+            "caption": "Adam and Zach here. We’re the  co-founders of the Modern Barrel Co.",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "1660680589e7bef97b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "First and foremost, we’re spirit lovers.",
+            "heading_size": "h1"
+          }
+        },
+        "1660680589e7bef97b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That means we're always on the hunt for our next favorite bottle.  <\/p><p>Something unique. Something different.   <\/p><p>Something really special that we can bring out at dinner parties and say, \"try this!\"<\/p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "e9d7e36d-3a92-410b-bcdd-dbf1a819a281",
+        "1660680589e7bef97b-0",
+        "1660680589e7bef97b-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
+        "height": "large",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "1660680684b76ec859": {
+      "type": "image-with-text",
+      "blocks": {
+        "1660680684d6995b8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "So when demand for aged spirits skyrocketed, we felt the sting",
+            "heading_size": "h1"
+          }
+        },
+        "1660680684d6995b8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Suddenly it was hard to get our hands on the really good stuff. We're talking developing a personal relationship with our local liquor store owner.<\/p><p><br\/>Taking the day off work to wait in line for the latest drop.  <\/p><p><br\/>And scouring the internet only to settle for prices that were 300-500% more than MRSP. <br\/><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1660680684d6995b8c-0",
+        "1660680684d6995b8c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
+        "height": "large",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "1660680765d4b723af": {
+      "type": "image-with-text",
+      "blocks": {
+        "16606807655600b7fc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "It was hard to find spirits that catered to our specific tastes",
+            "heading_size": "h1"
+          }
+        },
+        "16606807655600b7fc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Because the industry largely targets broad flavor preferences like X and Y. <\/p><p><br\/>And we can't blame them. <\/p><p><br\/>Experimenting with unique flavor profiles on such a large scale is expensive. Time-consuming. And, ultimately, a big risk. <\/p><p><br\/>How can distillers know if people 10-20 years from now will like or buy what they’ve produced?<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16606807655600b7fc-0",
+        "16606807655600b7fc-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
+        "height": "large",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166068083668db7a23": {
+      "type": "rich-text",
+      "blocks": {
+        "1660680836fd228705-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>We tried experimenting with the DIY tools on the market, but we weren’t impressed with the results<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1660680836fd228705-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The oak spirals and mini barrels only gave our spirits a woodier flavor. <br\/><\/p><p>Plus, the process felt like a lot of work. We had to taste the spirits daily, top up and rotate the barrels, and even watch out for mold growth.<\/p><p><br\/>And with no solid resources to turn to for guidance...  <\/p><p><br\/>We ruined quite a few bottles in the process. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1660680836fd228705-0",
+        "1660680836fd228705-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1660680871dfdc6106": {
+      "type": "rich-text",
+      "blocks": {
+        "16606808718249978f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>As chemists, we knew ther had to be a better way to customize our own spirits<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "16606808718249978f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>So we started playing around in our kitchens. Doing a lot of guessing and failing. And reading scientific literature to figure out exactly how oak barrels gave our spirits the flavor we loved.  <\/p><p><br\/>We wanted to figure out how to... <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16606808718249978f-0",
+        "16606808718249978f-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "16606801048d71b348",
-    "main"
+    "main",
+    "166068059024303dbd",
+    "1660680684b76ec859",
+    "1660680765d4b723af",
+    "166068083668db7a23",
+    "1660680871dfdc6106"
   ]
 }
