@@ -1,5 +1,6 @@
 .footer {
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  color:#fff;
 }
 
 .footer:not(.color-background-1) {
@@ -150,6 +151,7 @@
   margin-bottom: 2rem;
   margin-top: 0;
   font-size: calc(var(--font-heading-scale) * 1.6rem);
+  color: rgb(var(--color-outline-button));
 }
 
 @media screen and (min-width: 990px) {
@@ -413,12 +415,12 @@ noscript .localization-selector.link {
 
 .footer-block__details-content .list-menu__item--link,
 .copyright__content a {
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-outline-button), 0.75);
 }
 
 .footer-block__details-content .list-menu__item--active {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-outline-button));
 }
 
 @media screen and (min-width: 750px) {

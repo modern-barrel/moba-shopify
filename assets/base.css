@@ -2465,6 +2465,7 @@ details[open] .modal-overlay::after {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
   min-height: calc(100% + var(--inputs-margin-offset) + (2 * var(--inputs-border-width)));
   height: 100%;
+  background: #000 !important;
 }
 
 .search-modal__content {
@@ -2488,6 +2489,11 @@ details[open] .modal-overlay::after {
 
 .search-modal__form {
   width: 100%;
+  color: #000;
+}
+
+.search-modal__form .field, .search-modal__form .field__label {
+  color:#000;
 }
 
 .search-modal__close-button {

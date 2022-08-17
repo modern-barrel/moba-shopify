@@ -19,8 +19,9 @@
   width: 100%;
 }
 
-.newsletter-form__field-wrapper .field__input {
+.newsletter-form__field-wrapper .field__input, .newsletter-form__field-wrapper .field__label {
   padding-right: 5rem;
+  color: rgb(var(--color-outline-button));
 }
 
 .newsletter-form__field-wrapper .field {

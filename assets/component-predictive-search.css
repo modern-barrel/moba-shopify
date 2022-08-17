@@ -109,6 +109,7 @@ predictive-search[loading] .predictive-search__results-list:first-child {
   text-align: left;
   text-decoration: none;
   width: 100%;
+  color: #000;
 }
 
 .predictive-search__item--link {
