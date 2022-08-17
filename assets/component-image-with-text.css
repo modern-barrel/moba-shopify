@@ -372,3 +372,9 @@
 .image-with-text-custom-body {
   color: #fff;
 }
+
+@media screen and (max-width:772px) {
+  .image-with-text__content {
+    padding: 0.5rem calc(0.5rem / var(--font-body-scale)) 1rem;
+  }
+}

@@ -535,3 +535,7 @@ noscript .localization-selector.link {
   font-size:2rem !important;
   padding:0 4rem;
 }
+
+.footer-block__details-content .list-menu__item:hover {
+  color:#fff;
+}
