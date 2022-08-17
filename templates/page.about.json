@@ -485,6 +485,50 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "1660752669db715ca6": {
+      "type": "image-with-text-custom",
+      "blocks": {
+        "1660752669f6cd3343-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Find your next favorite spirit on us",
+            "heading_size": "h1"
+          }
+        },
+        "1660752669f6cd3343-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each MOBA purchase comes with 3 free oak tile sets of your choice. So you can get your signature collection started, on the house. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660752669f6cd3343-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET MOBA",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "1660752669f6cd3343-0",
+        "1660752669f6cd3343-1",
+        "1660752669f6cd3343-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0374.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -500,6 +544,7 @@
     "1660682272ad9103c7",
     "16606833984b80fc45",
     "1660683417fd47f776",
-    "166074633193c18697"
+    "166074633193c18697",
+    "1660752669db715ca6"
   ]
 }
