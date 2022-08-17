@@ -10,7 +10,7 @@
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
     "colors_background_2": "#f3f3f3",
-    "gradient_background_2": "radial-gradient(rgba(206, 168, 123, 1) 66%, rgba(226, 217, 206, 1) 99%)",
+    "gradient_background_2": "radial-gradient(rgba(206, 168, 123, 1) 39%, rgba(226, 217, 206, 1) 99%)",
     "type_header_font": "playfair_display_n7",
     "heading_scale": 100,
     "type_body_font": "poppins_n4",
