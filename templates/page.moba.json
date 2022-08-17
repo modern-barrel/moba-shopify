@@ -83,7 +83,7 @@
           "type": "button",
           "settings": {
             "button_label": "GET MOBA",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify:\/\/products\/moba",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
