@@ -189,7 +189,7 @@
           "type": "button",
           "settings": {
             "button_label": "HOW IT WORKS",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_link": "shopify:\/\/pages\/how-it-works"
           }
         }
       },
