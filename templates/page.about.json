@@ -440,6 +440,51 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "166074633193c18697": {
+      "type": "circle-multicolumn",
+      "blocks": {
+        "1660746331cdc5a441-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_4.png",
+            "title": "Adam Thomas",
+            "text": "<p>Adam has an MS in chemistry from DePaul University and an MBA from Berkeley.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660746331cdc5a441-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_5.png",
+            "title": "Zach Detweiller",
+            "text": "<p>Zach has a PhD in chemistry from Princeton University. He presented his research on barrel maturation to an overflowing room at the American Distillers Institute Conference in 2019. It was the most attended, most downloaded presentation that year. <br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660746331cdc5a441-0",
+        "1660746331cdc5a441-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
@@ -454,6 +499,7 @@
     "16606822236d93f39b",
     "1660682272ad9103c7",
     "16606833984b80fc45",
-    "1660683417fd47f776"
+    "1660683417fd47f776",
+    "166074633193c18697"
   ]
 }
