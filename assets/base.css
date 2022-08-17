@@ -617,11 +617,11 @@ h6:empty {
 }
 
 .link--text {
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-outline-button));
 }
 
 .link--text:hover {
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-outline-button), 0.75);
 }
 
 .link-with-icon {
@@ -1312,11 +1312,11 @@ button.shopify-payment-button__button--unbranded {
   font: inherit;
   font-size: 1.5rem;
   text-decoration: none;
-  color: rgb(var(--color-button-text));
+  color: rgb(var(--color-background));
   transition: box-shadow var(--duration-short) ease;
   -webkit-appearance: none;
   appearance: none;
-  background-color: rgba(var(--color-button), var(--alpha-button-background));
+  background-color: rgb(var(--color-base-accent-2));
 }
 
 /* 
@@ -2604,11 +2604,11 @@ details[open] > .header__submenu {
 .header__menu-item {
   padding: 1.2rem;
   text-decoration: none;
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-outline-button), 0.75);
 }
 
 .header__menu-item:hover {
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-outline-button));
 }
 
 .header__menu-item span {
