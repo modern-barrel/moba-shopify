@@ -660,7 +660,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "GET MOBA",
-        "button_link": "shopify:\/\/collections\/all",
+        "button_link": "shopify:\/\/products\/moba",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
