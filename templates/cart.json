@@ -1,5 +1,33 @@
 {
   "sections": {
+    "166075972787f0d033": {
+      "type": "image-banner",
+      "blocks": {
+        "16607597274c54a342-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cart",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16607597274c54a342-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0355.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
@@ -30,6 +58,7 @@
     }
   },
   "order": [
+    "166075972787f0d033",
     "cart-items",
     "cart-footer"
   ]
