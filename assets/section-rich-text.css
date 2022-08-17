@@ -89,3 +89,7 @@
   background: #C08751;
   color: #fff;
 }
+
+.rich-text__wrapper, .rich-text__heading {
+  color:#000;
+}

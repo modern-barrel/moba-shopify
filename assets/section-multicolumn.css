@@ -199,7 +199,7 @@
 .multicolumn-card {
   position: relative;
   box-sizing: border-box;
-  background: none !important;
+  background: none;
 }
 
 .multicolumn-card > .multicolumn-card__image-wrapper--full-width:not(.multicolumn-card-spacing) {
@@ -304,12 +304,21 @@
 
 .circle-card-white {
   background: #fff !important;
+  color: #000;
   margin:0 2rem;
   box-shadow: 5px 9px 21px rgba(0, 0, 0, 0.2); 
 	-webkit-box-shadow: 5px 9px 21px rgba(0, 0, 0, 0.2); 
 	-moz-box-shadow: 5px 9px 21px rgba(0, 0, 0, 0.2); 
 }
 
+.circle-card-white h3 {
+  color: #000;
+}
+
 .multicolumn-list__item {
   align-self:stretch;
+}
+
+div[class="multicolumn-card content-container"] {
+  background: none !important;
 }
