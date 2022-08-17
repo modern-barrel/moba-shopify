@@ -315,10 +315,6 @@
   color: #000;
 }
 
-.multicolumn-list__item {
-  align-self:stretch;
-}
-
 div[class="multicolumn-card content-container"] {
   background: none !important;
 }

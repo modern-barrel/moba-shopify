@@ -967,6 +967,7 @@ summary::-webkit-details-marker {
 }
 
 .subtitle {
+  font-family: var(--font-heading-family);
   font-size: 1.8rem;
   line-height: calc(1 + 0.8 / var(--font-body-scale));
   letter-spacing: 0.06rem;
