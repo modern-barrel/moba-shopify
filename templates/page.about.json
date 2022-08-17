@@ -518,7 +518,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOBA_0374.jpg",
-        "height": "adapt",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
