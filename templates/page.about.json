@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text": "<p>That means we're always on the hunt for our next favorite bottle.  <\/p><p>Something unique. Something different.   <\/p><p>Something really special that we can bring out at dinner parties and say, \"try this!\"<\/p>",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         }
       },
