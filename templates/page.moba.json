@@ -239,7 +239,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_link": "shopify:\/\/products\/moba"
           }
         }
       },
@@ -283,7 +283,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_link": "shopify:\/\/products\/moba"
           }
         }
       },
@@ -327,7 +327,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_link": "shopify:\/\/products\/moba"
           }
         }
       },
