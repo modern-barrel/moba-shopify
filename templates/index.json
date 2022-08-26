@@ -204,6 +204,62 @@
         "padding_bottom": 52
       }
     },
+    "1661549302fee29342": {
+      "type": "circle-multicolumn",
+      "blocks": {
+        "1661549302a91c3069-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0840_ff7f6db4-28b6-455f-8a60-cb7bf8621630.jpg",
+            "title": "",
+            "text": "<p>Impart more refined taste<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1661549302a91c3069-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0852_f850cf41-163b-46d8-a724-46f997d06b4b.jpg",
+            "title": "",
+            "text": "<p>Remove harsh alcohol flavors<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1661549302a91c3069-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0877_31fc6c91-b30f-4019-80fc-6887d37a99e1.jpg",
+            "title": "",
+            "text": "<p>Add unique characteristics<br\/>from the wood<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661549302a91c3069-0",
+        "1661549302a91c3069-1",
+        "1661549302a91c3069-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "166059048173988bdc": {
       "type": "rich-text",
       "blocks": {
@@ -666,6 +722,7 @@
     "multicolumn",
     "1660595518d98d7a1a",
     "1660583423c6284e7f",
+    "1661549302fee29342",
     "166059048173988bdc",
     "1660590691c25726e4",
     "1660590909f41c1550",
