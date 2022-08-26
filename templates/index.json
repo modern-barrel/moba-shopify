@@ -3,24 +3,17 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Meet MOBA:",
-            "heading_size": "h0"
-          }
-        },
         "e9306c93-f83d-4669-aea1-fc3a04d66c0b": {
           "type": "heading",
           "settings": {
-            "heading": "The world’s first electric barrel",
+            "heading": "Customize any spirit to the perfect flavor profile: yours",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Customize any spirit to the perfect  flavor profile: yours. If you can dream it, you can drink it. MOBA is the only at-home tool designed to bring out your favorite tasting notes. So you can create signature spirits you won't find on any shelf",
+            "text": "Meet MOBA, the world's first electric barrel. The only at-home tool that lets you create signature spirits you won't find on any shelf.",
             "text_style": "body"
           }
         },
@@ -37,7 +30,6 @@
         }
       },
       "block_order": [
-        "heading",
         "e9306c93-f83d-4669-aea1-fc3a04d66c0b",
         "text",
         "button"
@@ -62,7 +54,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/agave.jpg",
+            "image": "shopify:\/\/shop_images\/MOBA_0877_2.jpg",
             "title": "",
             "text": "<p>Turn up the smokiness in your favorite tequila<\/p>",
             "link_label": "",
@@ -72,7 +64,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/baking-spices.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
             "title": "",
             "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
             "link_label": "",
@@ -82,7 +74,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/rum.jpg",
+            "image": "shopify:\/\/shop_images\/MOBA_0867_2.jpg",
             "title": "",
             "text": "<p>Create a rum-bourbon blend no no producer has released<\/p>",
             "link_label": "",
@@ -92,7 +84,7 @@
         "083ed602-6a5f-43eb-8288-1d0edfcc1499": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/whiskey.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0840_2.jpg",
             "title": "",
             "text": "<p>Transform a mixing whiskey into a sipper you can drink neat<\/p>",
             "link_label": "",
@@ -107,10 +99,10 @@
         "083ed602-6a5f-43eb-8288-1d0edfcc1499"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "If you can dream it, you can drink it",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
