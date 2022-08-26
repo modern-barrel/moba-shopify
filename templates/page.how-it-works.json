@@ -132,37 +132,6 @@
         "padding_bottom": 52
       }
     },
-    "16606772699653e6a1": {
-      "type": "rich-text",
-      "blocks": {
-        "16606772696ccbf0ca-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Crafting sip-worthy spirits is almost as easy as pouring yourself a drink<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16606772696ccbf0ca-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Just add the spirit of your choice and a set of oak tiles. <br\/>MOBA will take care of the rest. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16606772696ccbf0ca-0",
-        "16606772696ccbf0ca-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "image_overlap": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "166067765832bd6608": {
       "type": "circle-multicolumn",
       "blocks": {
@@ -258,7 +227,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Group_26.png",
             "title": "",
-            "text": "<p>Oak barrels are treated to bring out specific flavor notes like sweet, spicy, and smoky. MOBA's wooden tiles are prepared in the same traditional ways. <\/p>",
+            "text": "<p>Oak barrels are charred and toasted to bring out specific flavor notes like vanilla, baking spices, and smoke. <\/p><p>MOBA's wooden tiles are prepared in the same traditional ways. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -268,7 +237,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Group_27.png",
             "title": "",
-            "text": "<p>Oak barrels heat up during the day and cool down at night. MOBA uses rapid temperature fluctuations to replicate that process and speed up digestion. <\/p>",
+            "text": "<p>Oak barrels heat up during the day and cool down at night. <\/p><p>MOBA uses rapid temperature fluctuations to replicate that process and speed up digestion.<\/p><p><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -278,7 +247,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Group_28.png",
             "title": "",
-            "text": "<p>Oak barrels are porous. MOBA introduces oxygen to the barrel, which allows more complex fruit and floral notes to come forward. Mixing occurs due to convection and aeration of the contents. <\/p>",
+            "text": "<p>Oak barrels breathe. Whether from the headspace above the spirit or the leaks in the barrel, air facilitates the most important parts of maturation.<\/p><p>MOBA introduces oxygen, which allows more complex fruit and floral notes to come forward.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -288,7 +257,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Group_29.png",
             "title": "",
-            "text": "<p>Oak barrels often get transferred from one part of the rickhouse to another. MOBA's magnetic stir bar creates a similar effect and increases the exchange of wood and spirit. <\/p>",
+            "text": "<p>Oak barrels often get transferred from one part of the rickhouse to another or are mixed by hand.<\/p><p><\/p><p>MOBA's magnetic stir bar creates a similar effect and increases the exchange of wood and spirit. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -412,7 +381,6 @@
     "1660666023fda473f7",
     "1660666057268d14d7",
     "16606661096da63aa4",
-    "16606772699653e6a1",
     "166067765832bd6608",
     "166067882923f6ef01",
     "1660678858b8b9c132",
