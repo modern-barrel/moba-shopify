@@ -113,7 +113,7 @@
         "1660660474eeb92434-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0877_2.jpg",
             "title": "",
             "text": "<p>Turn up the smokiness in your favorite tequila<\/p>",
             "link_label": "",
@@ -123,7 +123,7 @@
         "1660660474eeb92434-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
             "title": "",
             "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
             "link_label": "",
@@ -133,7 +133,7 @@
         "1660660474eeb92434-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0867_2.jpg",
             "title": "",
             "text": "<p>Create a rum-bourbon blend no distiller has tried<\/p>",
             "link_label": "",
@@ -143,7 +143,7 @@
         "9334c2b0-5b08-4f0b-ba00-a4707cff6479": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0840_2.jpg",
             "title": "",
             "text": "<p>Transform a mixing whiskey into a sipper you can drink neat<\/p>",
             "link_label": "",
@@ -161,7 +161,7 @@
         "title": "Crafting sip-worthy spirits is almost as easy as pouring yourself a drink",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
@@ -249,7 +249,7 @@
         "16606608370140e03f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0047.jpg",
+        "image": "shopify:\/\/shop_images\/MOBA_0392.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -293,7 +293,7 @@
         "1660660991416928da-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0316.jpg",
+        "image": "shopify:\/\/shop_images\/MOBA_0577.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -337,7 +337,7 @@
         "1660661144c1112a6f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0541.jpg",
+        "image": "shopify:\/\/shop_images\/MOBA_0266.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
