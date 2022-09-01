@@ -8,9 +8,9 @@
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -22,7 +22,7 @@
         "1661993924702a274c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Special 25% off Launch Sale<\/p>",
+            "heading": "<p>Get An Exclusive 25% Discount<\/p>",
             "heading_size": "h0"
           }
         },
