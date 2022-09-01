@@ -500,19 +500,11 @@
             "text": "<p>That means controlled, repeatable results that are perfect for you palate. Every single time.<\/p>",
             "text_style": "body"
           }
-        },
-        "166060028445b9630e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "ABOUT US",
-            "button_link": "shopify:\/\/pages\/about"
-          }
         }
       },
       "block_order": [
         "166060028445b9630e-0",
-        "166060028445b9630e-1",
-        "166060028445b9630e-2"
+        "166060028445b9630e-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
