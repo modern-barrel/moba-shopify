@@ -476,7 +476,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "SHOP ALL OAK TILES",
-        "button_link": "shopify:\/\/collections\/all",
+        "button_link": "shopify:\/\/collections",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
