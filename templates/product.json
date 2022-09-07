@@ -171,7 +171,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Take photos enjoying your custom spirit and share your projects by tagging @modernbarrelco on Instagram<\/p>",
+            "text": "<p>Take photos enjoying your custom spirit and share your projects by tagging @modernbarrelco on <a href=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\" target=\"_blank\" title=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\">Instagram<\/a><\/p>",
             "text_style": "body"
           }
         }
