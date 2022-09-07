@@ -423,5 +423,10 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": "Powered by Shopify, Built by ZENDAVESTA"
+    }
   }
 }
