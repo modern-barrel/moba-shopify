@@ -154,8 +154,8 @@
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image-with-text": {
@@ -181,7 +181,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0360.jpg",
+        "image": "shopify:\/\/shop_images\/metal_table_render_woman.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
