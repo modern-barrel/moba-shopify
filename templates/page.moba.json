@@ -403,7 +403,7 @@
           "settings": {
             "heading": "Does MOBA distill alcohol",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>No, unfortunately that is illegal. MOBA offers you another step in the flavor building process.<\/p>",
             "page": ""
           }
         },
