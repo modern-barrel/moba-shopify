@@ -150,7 +150,7 @@
         "settings": {
           "color_scheme": "accent-2",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe Now",
+          "newsletter_heading": "Join the Community",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
