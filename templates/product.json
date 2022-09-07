@@ -119,7 +119,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>Width: 5.6in (142mm)<\/p><p>Height: 12.1in (308mm)<\/p>",
             "page": ""
           }
         },
