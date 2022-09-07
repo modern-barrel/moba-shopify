@@ -2,6 +2,18 @@
   "sections": {
     "1660761604d77ed68f": {
       "type": "image-banner",
+      "blocks": {
+        "99fb62ed-6a2b-438b-b565-ea40d1fa33e1": {
+          "type": "heading",
+          "settings": {
+            "heading": "404",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "99fb62ed-6a2b-438b-b565-ea40d1fa33e1"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOBA_0738.jpg",
         "image_overlay_opacity": 0,
