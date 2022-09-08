@@ -61,22 +61,22 @@
             "link": ""
           }
         },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
-            "title": "",
-            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column3": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0867_2.jpg",
             "title": "",
             "text": "<p>Create a rum-bourbon blend no no producer has released<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
+            "title": "",
+            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -94,8 +94,8 @@
       },
       "block_order": [
         "column1",
-        "column2",
         "column3",
+        "column2",
         "083ed602-6a5f-43eb-8288-1d0edfcc1499"
       ],
       "settings": {
