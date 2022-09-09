@@ -2154,6 +2154,10 @@ input[type='checkbox'] {
   line-height: calc(1 + 0.1 / var(--font-body-scale));
 }
 
+.cart-count-bubble span {
+  color:#fff;
+}
+
 /* section-announcement-bar */
 #shopify-section-announcement-bar {
   z-index: 4;
