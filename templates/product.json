@@ -8,12 +8,43 @@
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "1661993924566b3c69": {
+      "type": "rich-text",
+      "blocks": {
+        "1661993924702a274c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Get An Exclusive 25% Discount<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "1661993924702a274c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're launching soon. Spirit Maturation Innovators will get an exclusive launch discount applied at check out by pre-ordering now.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661993924702a274c-0",
+        "1661993924702a274c-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "main": {
@@ -70,7 +101,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "",
+            "content": "<p>Comes with food-grade stainless vessel and food grade polypropylene lid<\/p>",
             "page": ""
           }
         },
@@ -79,7 +110,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
+            "content": "<p>Free shipping for MOBA, and in the unlikely case you need to return it, you can reach out to us and we will make it right.<\/p>",
             "page": ""
           }
         },
@@ -88,7 +119,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>Width: 5.6in (142mm)<\/p><p>Height: 12.1in (308mm)<\/p>",
             "page": ""
           }
         },
@@ -97,14 +128,8 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<p>The stainless vessel and polypropylene top can be washed with warm water and soap. Clean the outside of Moba with a damp towel.<\/p>",
             "page": ""
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
           }
         }
       },
@@ -120,8 +145,7 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-3"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -131,7 +155,7 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 36
       }
     },
     "image-with-text": {
@@ -140,14 +164,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Lorem Ipsum",
+            "heading": "Join the Conversation",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Take photos enjoying your custom spirit and share your projects by tagging @modernbarrelco on <a href=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\" target=\"_blank\" title=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\">Instagram<\/a><\/p>",
             "text_style": "body"
           }
         }
@@ -157,7 +181,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0360.jpg",
+        "image": "shopify:\/\/shop_images\/metal_table_render_woman.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -177,7 +201,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>We will get MOBA to you with free shipping inside of the continental United States.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -186,7 +210,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>If you have any issues with your machine please reach out to us, and we will work to make it right.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -233,6 +257,7 @@
   },
   "order": [
     "1660761395fe3a3202",
+    "1661993924566b3c69",
     "main",
     "image-with-text",
     "multicolumn",

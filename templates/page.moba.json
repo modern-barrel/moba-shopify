@@ -43,7 +43,7 @@
         "cf132214-26e2-46b1-b3c4-c6f4fc7b8e54"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/image_4_c21aab02-3e5e-4325-b57f-5f04b905546a.png",
+        "image": "shopify:\/\/shop_images\/black_back_ground.1935_-_Edited.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -120,22 +120,22 @@
             "link": ""
           }
         },
-        "1660660474eeb92434-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
-            "title": "",
-            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "1660660474eeb92434-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0867_2.jpg",
             "title": "",
             "text": "<p>Create a rum-bourbon blend no distiller has tried<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660660474eeb92434-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
+            "title": "",
+            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -153,8 +153,8 @@
       },
       "block_order": [
         "1660660474eeb92434-0",
-        "1660660474eeb92434-1",
         "1660660474eeb92434-2",
+        "1660660474eeb92434-1",
         "9334c2b0-5b08-4f0b-ba00-a4707cff6479"
       ],
       "settings": {
@@ -187,7 +187,7 @@
         "1660660607e9906a54-1": {
           "type": "text",
           "settings": {
-            "text": "<p>You'll see the most dramatic difference with clear spirits like X and Y. But your aged spirits like X and Y will also gain more character. No matter what, you'll love the results. (We did 600+ blind taste tests to make sure.)<\/p>",
+            "text": "<p>You'll see the most dramatic difference with clear spirits like unaged tequila and rum. But your aged spirits like whiskey and brandy will also gain more character. No matter what, you'll love the results. (We tried 600+ flavor profiles to make sure.)<\/p>",
             "text_style": "body"
           }
         },
@@ -205,7 +205,7 @@
         "1660660607e9906a54-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0375.jpg",
+        "image": "shopify:\/\/shop_images\/MOBA_0703.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -249,7 +249,7 @@
         "16606608370140e03f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0392.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled_design.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -275,7 +275,7 @@
         "1660660991416928da-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ever had a dark baiju? Or a ________? We haven't either. With MOBA, you can experiment with flavor combinations and spirit categories even the distillers haven't tried. <\/p>",
+            "text": "<p>Ever had a smokey rum? Or a barrel aged vodka? We haven't either. With MOBA, you can experiment with flavor combinations and spirit categories even the distillers haven't tried. <\/p>",
             "text_style": "body"
           }
         },
@@ -356,7 +356,7 @@
         "166066147704baa569-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_20.png",
+            "image": "shopify:\/\/shop_images\/MOBA_2.png",
             "title": "",
             "text": "<p>✅ Takes 5 days<br\/>✅ Adds unique flavor profiles<br\/>✅ Completely hands-off<br\/>✅ Tried-and-tested results<\/p>",
             "link_label": "",
@@ -366,7 +366,7 @@
         "166066147704baa569-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_21.png",
+            "image": "shopify:\/\/shop_images\/Mini_Barrels_Spirals_1.png",
             "title": "",
             "text": "<p>❌ Takes months - years<br\/>❌ Adds oak flavor only<br\/>❌ Taste and top up often<br\/>❌ Result can be undrinkable<\/p>",
             "link_label": "",
@@ -384,7 +384,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
@@ -403,7 +403,7 @@
           "settings": {
             "heading": "Does MOBA distill alcohol",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>No, unfortunately that is illegal. MOBA offers you another step in the flavor building process.<\/p>",
             "page": ""
           }
         },
@@ -412,7 +412,7 @@
           "settings": {
             "heading": "Can MOBA mature beer, wine, and other alcoholic beverages?",
             "icon": "none",
-            "row_content": "<p>MOBA is designed to work only with distilled spirits. We've had the best results with rum, brandy, tequila, vodka, gin, mezcal, whiskey, bourbon, and scotch. <\/p>",
+            "row_content": "<p>MOBA was originally designed to work best with distilled spirits. We've had the best results with rum, brandy, tequila, vodka, gin, mezcal, whiskey, bourbon, and scotch....  but ya now. You won't break it.<\/p>",
             "page": ""
           }
         }

@@ -2,6 +2,34 @@
   "sections": {
     "1660761604d77ed68f": {
       "type": "image-banner",
+      "blocks": {
+        "99fb62ed-6a2b-438b-b565-ea40d1fa33e1": {
+          "type": "heading",
+          "settings": {
+            "heading": "404",
+            "heading_size": "h1"
+          }
+        },
+        "af07d8b1-131c-4483-a7c4-5c9c9327096e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Page not Found",
+            "heading_size": "h1"
+          }
+        },
+        "4b67b94d-1ac5-482b-bee9-ba1bfb71d7da": {
+          "type": "text",
+          "settings": {
+            "text": "We are either working really hard to fix this or we aren't. If you really need this page, shoot us an email and we will figure out the solution",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "99fb62ed-6a2b-438b-b565-ea40d1fa33e1",
+        "af07d8b1-131c-4483-a7c4-5c9c9327096e",
+        "4b67b94d-1ac5-482b-bee9-ba1bfb71d7da"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOBA_0738.jpg",
         "image_overlay_opacity": 0,
@@ -18,6 +46,7 @@
     },
     "main": {
       "type": "main-404",
+      "disabled": true,
       "settings": {
       }
     }

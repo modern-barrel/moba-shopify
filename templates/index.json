@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0355_c4f1149e-3726-4437-a8a8-b511a0d93eb4.jpg",
+        "image": "shopify:\/\/shop_images\/moba_seen_ren_-_Edited_2.png",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "adapt_height_first_image": true,
@@ -61,22 +61,22 @@
             "link": ""
           }
         },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
-            "title": "",
-            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column3": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0867_2.jpg",
             "title": "",
             "text": "<p>Create a rum-bourbon blend no no producer has released<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
+            "title": "",
+            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -94,8 +94,8 @@
       },
       "block_order": [
         "column1",
-        "column2",
         "column3",
+        "column2",
         "083ed602-6a5f-43eb-8288-1d0edfcc1499"
       ],
       "settings": {
@@ -133,7 +133,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5stars.png",
             "title": "“We love being able to mature barrel aged spirit blends that don’t exist yet.”",
-            "text": "<p>Michael and Sylvia L, San Francisco, CA<\/p>",
+            "text": "<p>Michael & Sylvia L, San Francisco<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -232,7 +232,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0877_31fc6c91-b30f-4019-80fc-6887d37a99e1.jpg",
             "title": "",
-            "text": "<p>Add unique characteristics<br\/>from the wood<\/p>",
+            "text": "<p>Add unique characteristics<br\/>from wood<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -297,7 +297,7 @@
         "166059069102fc72a8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mask_group.png",
+            "image": "shopify:\/\/shop_images\/black_back_ground.1935_-_Edited.png",
             "title": "1.",
             "text": "<p>Pour in a bottle of your favorite spirit <\/p>",
             "link_label": "",
@@ -307,7 +307,7 @@
         "166059069102fc72a8-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mask_group_1.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0588_1_-_Edited.png",
             "title": "2.",
             "text": "<p>Add your preferred <br\/>set of oak tiles   <br\/><\/p>",
             "link_label": "",
@@ -317,7 +317,7 @@
         "166059069102fc72a8-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mask_group_2.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0133_-_Edited.png",
             "title": "3.",
             "text": "<p>Sit back while MOBA works its magic <\/p>",
             "link_label": "",
@@ -327,7 +327,7 @@
         "93fed546-f61b-49af-a16e-5b24c7d80832": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mask_group_3.png",
+            "image": "shopify:\/\/shop_images\/MOBA_0159_-_Edited.png",
             "title": "4.",
             "text": "<p>Enjoy a brand new <br\/>flavor profile <\/p>",
             "link_label": "",
@@ -382,8 +382,8 @@
         "color_scheme": "background-1",
         "full_width": true,
         "image_overlap": false,
-        "padding_top": 24,
-        "padding_bottom": 100
+        "padding_top": 48,
+        "padding_bottom": 68
       }
     },
     "16605910197cc204bc": {
@@ -423,7 +423,7 @@
         "1660592493d3f17105-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_15.png",
+            "image": "shopify:\/\/shop_images\/sweet-plus.png",
             "title": "Sweet",
             "text": "",
             "link_label": "",
@@ -433,7 +433,7 @@
         "1660592493d3f17105-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_13.png",
+            "image": "shopify:\/\/shop_images\/oak.png",
             "title": "Oak",
             "text": "",
             "link_label": "",
@@ -443,7 +443,7 @@
         "1660592493d3f17105-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_16.png",
+            "image": "shopify:\/\/shop_images\/baking-spices_64b12b6b-0d5f-4a64-ad96-ac3a2d0a20db.png",
             "title": "Spice",
             "text": "",
             "link_label": "",
@@ -453,7 +453,7 @@
         "fe919408-b6dc-4fd4-b496-cf0d534ed691": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_14.png",
+            "image": "shopify:\/\/shop_images\/smokey.png",
             "title": "Smoke",
             "text": "",
             "link_label": "",
@@ -476,7 +476,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "SHOP ALL OAK TILES",
-        "button_link": "shopify:\/\/collections\/all",
+        "button_link": "shopify:\/\/collections",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -500,19 +500,11 @@
             "text": "<p>That means controlled, repeatable results that are perfect for you palate. Every single time.<\/p>",
             "text_style": "body"
           }
-        },
-        "166060028445b9630e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "ABOUT US",
-            "button_link": "shopify:\/\/pages\/about"
-          }
         }
       },
       "block_order": [
         "166060028445b9630e-0",
-        "166060028445b9630e-1",
-        "166060028445b9630e-2"
+        "166060028445b9630e-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
@@ -579,7 +571,7 @@
         "1660596818e778b168-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_20.png",
+            "image": "shopify:\/\/shop_images\/MOBA_2.png",
             "title": "",
             "text": "<p>✅     Takes 5 days<br\/>✅     Adds unique flavor profiles<br\/>✅     Completely hands-off<br\/>✅     Tried-and-tested results<\/p>",
             "link_label": "",
@@ -589,7 +581,7 @@
         "1660596818e778b168-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_22_c8885632-3ef6-4ff2-a975-787cd655bcad.png",
+            "image": "shopify:\/\/shop_images\/Mini_Barrels_Spirals_1.png",
             "title": "",
             "text": "<p>❌     Takes months - years<br\/>❌      Adds oak flavor only<br\/>❌      Taste and top up often<br\/>❌       Result can be undrinkable<\/p>",
             "link_label": "",
