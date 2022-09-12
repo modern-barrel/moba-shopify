@@ -165,7 +165,7 @@
           "type": "heading",
           "settings": {
             "heading": "Join the Conversation",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "image-with-text-1": {
@@ -210,7 +210,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>If you have any issues with your machine please reach out to us, and we will work to make it right.<\/p>",
+            "text": "<p>If you have any issues with your machine please reach out to us, and we will work to make it right. Should The Modern Barrel Company be unable to fulfill the orders it receives, payments will be refunded to customers in their entirety.<\/p>",
             "link_label": "",
             "link": ""
           }
