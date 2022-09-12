@@ -9,10 +9,18 @@
             "heading": "Cart",
             "heading_size": "h1"
           }
+        },
+        "7e25ef73-2357-40b2-987a-375dd13bfca0": {
+          "type": "text",
+          "settings": {
+            "text": "MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022, and our team will do its best to ship prior to that date. All orders will ship on a first come first serve basis.",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "16607597274c54a342-0"
+        "16607597274c54a342-0",
+        "7e25ef73-2357-40b2-987a-375dd13bfca0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOBA_0355.jpg",
