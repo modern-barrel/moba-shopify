@@ -165,7 +165,7 @@
         "settings": {
           "logo": "shopify:\/\/shop_images\/Asset_3_4x_1.png",
           "logo_max_width": 100,
-          "color_scheme": "accent-2"
+          "color_scheme": "inverse"
         }
       },
       "main-password-footer": {
