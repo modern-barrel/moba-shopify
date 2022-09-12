@@ -77,30 +77,18 @@
         "16630010587ab743c3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16630010587ab743c3-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022, and our team will do its best to ship prior to that date. All orders will ship on a first come first serve basis. <strong>Should The Modern Barrel Company be unable to fulfill the orders it receives, payments will be refunded to customers in their entirety.<\/strong><\/p>"
           }
         }
       },
       "block_order": [
         "16630010587ab743c3-0",
-        "16630010587ab743c3-1",
-        "16630010587ab743c3-2"
+        "16630010587ab743c3-1"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "image_overlap": false,
         "padding_top": 40,
