@@ -111,15 +111,15 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "accent-2",
-          "logo": "shopify:\/\/shop_images\/logo.png",
+          "color_scheme": "accent-1",
+          "logo": "shopify:\/\/shop_images\/MOBA_LOGO.png",
           "logo_width": 120,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
-          "margin_bottom": 0,
+          "margin_bottom": 100,
           "padding_top": 20,
           "padding_bottom": 20
         }
