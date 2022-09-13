@@ -9,10 +9,18 @@
             "heading": "Cart",
             "heading_size": "h1"
           }
+        },
+        "7e25ef73-2357-40b2-987a-375dd13bfca0": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "16607597274c54a342-0"
+        "16607597274c54a342-0",
+        "7e25ef73-2357-40b2-987a-375dd13bfca0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOBA_0355.jpg",
@@ -55,11 +63,43 @@
       ],
       "settings": {
       }
+    },
+    "1663001058685103ff": {
+      "type": "rich-text",
+      "blocks": {
+        "16630010587ab743c3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Excited to Start this Journey with You<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16630010587ab743c3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022, and our team will do its best to ship prior to that date. All orders will ship on a first come first serve basis. <strong>Should The Modern Barrel Company be unable to fulfill the orders it receives, payments will be refunded to customers in their entirety.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16630010587ab743c3-0",
+        "16630010587ab743c3-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "166075972787f0d033",
     "cart-items",
-    "cart-footer"
+    "cart-footer",
+    "1663001058685103ff"
   ]
 }

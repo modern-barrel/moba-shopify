@@ -29,7 +29,7 @@
         "1661993924702a274c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We're launching soon. Spirit Maturation Innovators will get an exclusive launch discount applied at check out by pre-ordering now.<\/p>"
+            "text": "<p>We're launching soon. Spirit Maturation Innovators will get an exclusive launch discount applied at check out by pre-ordering now. MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022.<\/p>"
           }
         }
       },
@@ -165,7 +165,7 @@
           "type": "heading",
           "settings": {
             "heading": "Join the Conversation",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "image-with-text-1": {
@@ -201,7 +201,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping",
-            "text": "<p>We will get MOBA to you with free shipping inside of the continental United States.<\/p>",
+            "text": "<p>We will get MOBA to you with free shipping inside of the continental United States. MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022, and our team will do its best to ship prior to that date. All orders will ship on a first come first serve basis. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -210,7 +210,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>If you have any issues with your machine please reach out to us, and we will work to make it right.<\/p>",
+            "text": "<p>If you have any issues with your machine please reach out to us, and we will work to make it right. Should The Modern Barrel Company be unable to fulfill the orders it receives, payments will be refunded to customers in their entirety.<\/p>",
             "link_label": "",
             "link": ""
           }
