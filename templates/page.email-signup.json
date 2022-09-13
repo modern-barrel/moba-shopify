@@ -8,6 +8,22 @@
         "padding_bottom": 28
       }
     },
+    "1663029659cd0b6f7a": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0588_1_-_Edited.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1663017715ae80ae57": {
       "type": "custom-liquid",
       "settings": {
@@ -54,6 +70,7 @@
   },
   "order": [
     "main",
+    "1663029659cd0b6f7a",
     "1663017715ae80ae57",
     "1658951848ba987fe3"
   ]
