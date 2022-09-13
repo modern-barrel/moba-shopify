@@ -24,15 +24,6 @@
         "show_text_below": true
       }
     },
-    "1663017715ae80ae57": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "1658951848ba987fe3": {
       "type": "newsletter",
       "blocks": {
@@ -71,7 +62,6 @@
   "order": [
     "main",
     "1663029659cd0b6f7a",
-    "1663017715ae80ae57",
     "1658951848ba987fe3"
   ]
 }
