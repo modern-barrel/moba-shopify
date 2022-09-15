@@ -2,6 +2,18 @@
   "sections": {
     "16607615061e5c0230": {
       "type": "image-banner",
+      "blocks": {
+        "2dba8f4d-a0f8-4e5d-a3a3-f3ad3d0f0d9a": {
+          "type": "heading",
+          "settings": {
+            "heading": "COMING SOON",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "2dba8f4d-a0f8-4e5d-a3a3-f3ad3d0f0d9a"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOBA_0355_c4f1149e-3726-4437-a8a8-b511a0d93eb4.jpg",
         "image_overlay_opacity": 0,
@@ -18,6 +30,7 @@
     },
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "sort": "alphabetical",
