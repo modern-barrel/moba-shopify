@@ -205,7 +205,7 @@
         "1660660607e9906a54-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0703.jpg",
+        "image": "shopify:\/\/shop_images\/Your_radar_-_Edited.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -231,7 +231,7 @@
         "16606608370140e03f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Do you prefer a sweeter tequila? A smokier whiskey? MOBA has you covered. And with hundreds more flavor combinations to come, you can craft a spirit that's nearly perfect for your palate. <\/p>",
+            "text": "<p>Do you prefer a sweeter tequila? A smokier whiskey? MOBA has you covered. And with hundreds more flavor combinations to come, you can craft a spirit that's tailored to your palate. <\/p>",
             "text_style": "body"
           }
         },
@@ -293,7 +293,7 @@
         "1660660991416928da-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0577.jpg",
+        "image": "shopify:\/\/shop_images\/MOBA_0303.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -337,7 +337,7 @@
         "1660661144c1112a6f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0266.jpg",
+        "image": "shopify:\/\/shop_images\/MOBA_0541.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -358,7 +358,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_2.png",
             "title": "",
-            "text": "<p>✅ Takes 5 days<br\/>✅ Adds unique flavor profiles<br\/>✅ Completely hands-off<br\/>✅ Tried-and-tested results<\/p>",
+            "text": "<p>✅ Takes 1 week<br\/>✅ Adds unique flavor profiles<br\/>✅ Completely hands-off<br\/>✅ Tried-and-tested results<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -401,7 +401,7 @@
         "16606615739ec36953-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does MOBA distill alcohol",
+            "heading": "Does MOBA distill alcohol?",
             "icon": "none",
             "row_content": "<p>No, unfortunately that is illegal. MOBA offers you another step in the flavor building process.<\/p>",
             "page": ""
@@ -412,7 +412,7 @@
           "settings": {
             "heading": "Can MOBA mature beer, wine, and other alcoholic beverages?",
             "icon": "none",
-            "row_content": "<p>MOBA was originally designed to work best with distilled spirits. We've had the best results with rum, brandy, tequila, vodka, gin, mezcal, whiskey, bourbon, and scotch....  but ya now. You won't break it.<\/p>",
+            "row_content": "<p>MOBA was originally designed to work best with distilled spirits. We've had the best results with a wide variety spirits and cocktails.  You won't break MOBA with other things like beer or wine, but we are still working on how to offer great recipes for our customers in those segments.<\/p>",
             "page": ""
           }
         }

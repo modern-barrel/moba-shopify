@@ -66,7 +66,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0867_2.jpg",
             "title": "",
-            "text": "<p>Create a rum-bourbon blend no no producer has released<\/p>",
+            "text": "<p>Create a rum-bourbon blend no producer has released<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -156,8 +156,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 48
       }
     },
     "1660583423c6284e7f": {
@@ -497,7 +497,7 @@
         "166060028445b9630e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>That means controlled, repeatable results that are perfect for you palate. Every single time.<\/p>",
+            "text": "<p>That means controlled, repeatable results that are perfect for your palate. Every single time.<\/p>",
             "text_style": "body"
           }
         }
@@ -573,7 +573,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_2.png",
             "title": "",
-            "text": "<p>✅     Takes 5 days<br\/>✅     Adds unique flavor profiles<br\/>✅     Completely hands-off<br\/>✅     Tried-and-tested results<\/p>",
+            "text": "<p>✅     Takes 1 week<br\/>✅     Adds unique flavor profiles<br\/>✅     Completely hands-off<br\/>✅     Tried-and-tested results<\/p>",
             "link_label": "",
             "link": ""
           }
