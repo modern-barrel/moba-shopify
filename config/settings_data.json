@@ -112,7 +112,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "accent-1",
-          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo": "shopify:\/\/shop_images\/logo_type_for_header.png",
           "logo_width": 120,
           "logo_position": "middle-left",
           "menu": "main-menu",
