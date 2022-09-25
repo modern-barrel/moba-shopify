@@ -282,52 +282,6 @@
         "padding_bottom": 40
       }
     },
-    "1660595518d98d7a1a": {
-      "type": "testimonial",
-      "disabled": true,
-      "blocks": {
-        "166059551844c338cc-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5stars.png",
-            "title": "“The fact that I can make a smooth dark rum without much sweetness is amazing.”",
-            "text": "<p>Brian K, Arlington VA<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "166059551844c338cc-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5stars.png",
-            "title": "“We love being able to mature barrel aged spirit blends that don’t exist yet.”",
-            "text": "<p>Michael & Sylvia L, San Francisco<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "166059551844c338cc-0",
-        "166059551844c338cc-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 48
-      }
-    },
     "1661549302fee29342": {
       "type": "circle-multicolumn",
       "disabled": true,
@@ -544,6 +498,24 @@
     "16605966727a7b3c24": {
       "type": "testimonial",
       "blocks": {
+        "a4172a08-3223-4dbc-a787-556c90b3bfd5": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "933db496-313f-4580-99cf-f7673808222e": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "166059667233893b0f-0": {
           "type": "column",
           "settings": {
@@ -566,6 +538,8 @@
         }
       },
       "block_order": [
+        "a4172a08-3223-4dbc-a787-556c90b3bfd5",
+        "933db496-313f-4580-99cf-f7673808222e",
         "166059667233893b0f-0",
         "166059667233893b0f-1"
       ],
@@ -584,6 +558,51 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "1660595518d98d7a1a": {
+      "type": "testimonial",
+      "blocks": {
+        "166059551844c338cc-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“The fact that I can make a smooth dark rum without much sweetness is amazing.”",
+            "text": "<p>Brian K, Arlington VA<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059551844c338cc-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“We love being able to mature barrel aged spirit blends that don’t exist yet.”",
+            "text": "<p>Michael & Sylvia L, San Francisco<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166059551844c338cc-0",
+        "166059551844c338cc-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 48
       }
     },
     "16605968182bdcb829": {
@@ -742,12 +761,12 @@
     "1660583423c6284e7f",
     "16641354149f7da181",
     "multicolumn",
-    "1660595518d98d7a1a",
     "1661549302fee29342",
     "16605910197cc204bc",
     "16605924930e61ccea",
     "1664134675b5b6da4c",
     "16605966727a7b3c24",
+    "1660595518d98d7a1a",
     "16605968182bdcb829",
     "1660602420bfa3fd58",
     "1660602376d46c8bf8"
