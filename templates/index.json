@@ -564,6 +564,7 @@
     },
     "1660595518d98d7a1a": {
       "type": "testimonial",
+      "disabled": true,
       "blocks": {
         "166059551844c338cc-0": {
           "type": "column",
