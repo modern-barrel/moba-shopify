@@ -48,6 +48,105 @@
         "show_text_below": false
       }
     },
+    "166059048173988bdc": {
+      "type": "rich-text",
+      "blocks": {
+        "16605904811c0e296b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Crafting sip-worthy spirits in four easy steps<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16605904811c0e296b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Just add the spirit of your choice and a set of oak tiles. <br\/>MOBA will take care of the rest. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16605904811c0e296b-0",
+        "16605904811c0e296b-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "1660590691c25726e4": {
+      "type": "multicolumn",
+      "blocks": {
+        "166059069102fc72a8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/black_back_ground.1935_-_Edited.png",
+            "title": "1.",
+            "text": "<p>Pour in a bottle of your favorite spirit <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059069102fc72a8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0588_1_-_Edited.png",
+            "title": "2.",
+            "text": "<p>Choose your recipe and add wood tiles<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059069102fc72a8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0133_-_Edited.png",
+            "title": "3.",
+            "text": "<p>MOBA matures your spirits in days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "93fed546-f61b-49af-a16e-5b24c7d80832": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0159_-_Edited.png",
+            "title": "4.",
+            "text": "<p>At last, enjoy a glass with friends<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166059069102fc72a8-0",
+        "166059069102fc72a8-1",
+        "166059069102fc72a8-2",
+        "93fed546-f61b-49af-a16e-5b24c7d80832"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -262,132 +361,6 @@
         "padding_bottom": 36
       }
     },
-    "166059048173988bdc": {
-      "type": "rich-text",
-      "blocks": {
-        "16605904811c0e296b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Crafting sip-worthy spirits is almost as easy as pouring yourself a drink<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16605904811c0e296b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Just add the spirit of your choice and a set of oak tiles. <br\/>MOBA will take care of the rest. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16605904811c0e296b-0",
-        "16605904811c0e296b-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "image_overlap": false,
-        "padding_top": 40,
-        "padding_bottom": 24
-      }
-    },
-    "1660590691c25726e4": {
-      "type": "multicolumn",
-      "blocks": {
-        "166059069102fc72a8-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/black_back_ground.1935_-_Edited.png",
-            "title": "1.",
-            "text": "<p>Pour in a bottle of your favorite spirit <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "166059069102fc72a8-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MOBA_0588_1_-_Edited.png",
-            "title": "2.",
-            "text": "<p>Choose your recipe and add wood tiles<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "166059069102fc72a8-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MOBA_0133_-_Edited.png",
-            "title": "3.",
-            "text": "<p>MOBA matures your spirits in days<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "93fed546-f61b-49af-a16e-5b24c7d80832": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MOBA_0159_-_Edited.png",
-            "title": "4.",
-            "text": "<p>At last, enjoy a glass with friends<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "166059069102fc72a8-0",
-        "166059069102fc72a8-1",
-        "166059069102fc72a8-2",
-        "93fed546-f61b-49af-a16e-5b24c7d80832"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "1660590909f41c1550": {
-      "type": "rich-text",
-      "blocks": {
-        "1660590909298b27e7-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "GET MOBA",
-            "button_link": "shopify:\/\/products\/moba",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1660590909298b27e7-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "image_overlap": false,
-        "padding_top": 48,
-        "padding_bottom": 68
-      }
-    },
     "16605910197cc204bc": {
       "type": "rich-text",
       "blocks": {
@@ -412,7 +385,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "image_overlap": false,
         "padding_top": 72,
@@ -479,7 +452,7 @@
         "background_style": "primary",
         "button_label": "SHOP ALL OAK TILES",
         "button_link": "shopify:\/\/collections",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -713,13 +686,12 @@
   },
   "order": [
     "image_banner",
+    "166059048173988bdc",
+    "1660590691c25726e4",
     "multicolumn",
     "1660595518d98d7a1a",
     "1660583423c6284e7f",
     "1661549302fee29342",
-    "166059048173988bdc",
-    "1660590691c25726e4",
-    "1660590909f41c1550",
     "16605910197cc204bc",
     "16605924930e61ccea",
     "16606002844bcc595b",
