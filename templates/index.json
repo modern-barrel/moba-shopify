@@ -87,7 +87,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/black_back_ground.1935_-_Edited.png",
-            "title": "1.",
+            "title": "Step One",
             "text": "<p>Pour in a bottle of your favorite spirit <\/p>",
             "link_label": "",
             "link": ""
@@ -97,7 +97,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0588_1_-_Edited.png",
-            "title": "2.",
+            "title": "Step Two",
             "text": "<p>Choose your recipe and add wood tiles<\/p>",
             "link_label": "",
             "link": ""
@@ -107,7 +107,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0133_-_Edited.png",
-            "title": "3.",
+            "title": "Step Three",
             "text": "<p>MOBA matures your spirits in days<\/p>",
             "link_label": "",
             "link": ""
@@ -117,7 +117,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0159_-_Edited.png",
-            "title": "4.",
+            "title": "Step Four",
             "text": "<p>At last, enjoy a glass with friends<\/p>",
             "link_label": "",
             "link": ""
@@ -136,7 +136,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
