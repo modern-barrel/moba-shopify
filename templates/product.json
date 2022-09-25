@@ -152,47 +152,13 @@
         "padding_bottom": 36
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Join the Conversation",
-            "heading_size": "h2"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Take photos enjoying your custom spirit and share your projects by tagging @modernbarrelco on <a href=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\" target=\"_blank\" title=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\">Instagram<\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/metal_table_render_woman.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Free Shipping",
             "text": "<p>We will get MOBA to you with free shipping inside of the continental United States. MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022, and our team will do its best to ship prior to that date. All orders will ship on a first come first serve basis. <\/p>",
@@ -202,6 +168,7 @@
         },
         "column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Hassle-Free Exchanges",
             "text": "<p>If you have any issues with your machine please reach out to us, and we will work to make it right. Should The Modern Barrel Company be unable to fulfill the orders it receives, payments will be refunded to customers in their entirety.<\/p>",
@@ -231,8 +198,45 @@
         "padding_bottom": 36
       }
     },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the conversation",
+            "heading_size": "h2"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Take photos enjoying your custom spirit and share your projects by tagging @modernbarrelco on <a href=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\" target=\"_blank\" title=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\">Instagram<\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/metal_table_render_woman.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -253,8 +257,8 @@
     "1664140470c586a2b1",
     "1661993924566b3c69",
     "main",
-    "image-with-text",
     "multicolumn",
+    "image-with-text",
     "product-recommendations"
   ]
 }
