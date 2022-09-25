@@ -412,8 +412,8 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "image_overlap": false,
-        "padding_top": 72,
-        "padding_bottom": 52
+        "padding_top": 52,
+        "padding_bottom": 0
       }
     },
     "16605924930e61ccea": {
@@ -511,7 +511,7 @@
         "1664134675fcd930fe-0": {
           "type": "heading",
           "settings": {
-            "heading": "Brought to you by spirit lovers who also happen to be chemists",
+            "heading": "Brought to you by spirit lovers, who also happen to be chemists.",
             "heading_size": "h1"
           }
         },
