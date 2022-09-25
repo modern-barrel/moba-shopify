@@ -311,7 +311,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0588_1_-_Edited.png",
             "title": "2.",
-            "text": "<p>Add your preferred <br\/>set of oak tiles   <br\/><\/p>",
+            "text": "<p>Choose your recipe and add wood tiles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -321,7 +321,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MOBA_0133_-_Edited.png",
             "title": "3.",
-            "text": "<p>Sit back while MOBA works its magic <\/p>",
+            "text": "<p>Start MOBA <\/p>",
             "link_label": "",
             "link": ""
           }
