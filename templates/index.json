@@ -117,6 +117,7 @@
     },
     "1660595518d98d7a1a": {
       "type": "testimonial",
+      "disabled": true,
       "blocks": {
         "166059551844c338cc-0": {
           "type": "column",
@@ -191,7 +192,7 @@
         "1660583423c31b72e9-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner1.png",
+        "image": "shopify:\/\/shop_images\/metal_table_render_woman_94e31bf2-e742-481d-bc49-c9905ad0de8f.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -206,6 +207,7 @@
     },
     "1661549302fee29342": {
       "type": "circle-multicolumn",
+      "disabled": true,
       "blocks": {
         "1661549302a91c3069-0": {
           "type": "column",
