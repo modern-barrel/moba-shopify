@@ -54,7 +54,7 @@
         "16605904811c0e296b-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Crafting sip-worthy spirits<br\/>in four easy steps<\/p>",
+            "heading": "<p>Crafting sip-worthy spirits,<br\/>in four easy steps:<\/p>",
             "heading_size": "h1"
           }
         },
@@ -167,7 +167,7 @@
         "1660583423c31b72e9-2": {
           "type": "button",
           "settings": {
-            "button_label": "HOW IT WORKS",
+            "button_label": "LEARN MORE",
             "button_link": "shopify:\/\/pages\/how-it-works"
           }
         }
@@ -188,6 +188,30 @@
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "16641354149f7da181": {
+      "type": "rich-text",
+      "blocks": {
+        "1664135414fe426bc6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>If you can dream it, you can drink it.<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1664135414fe426bc6-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -242,7 +266,7 @@
         "083ed602-6a5f-43eb-8288-1d0edfcc1499"
       ],
       "settings": {
-        "title": "If you can dream it, you can drink it",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
@@ -504,6 +528,7 @@
         "1664134675fcd930fe-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1039.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -514,42 +539,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "16606002844bcc595b": {
-      "type": "image-with-text-custom",
-      "blocks": {
-        "166060028445b9630e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Brought to you by spirit lovers  who also happen to be chemists",
-            "heading_size": "h1"
-          }
-        },
-        "166060028445b9630e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>That means controlled, repeatable results that are perfect for your palate. Every single time.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "166060028445b9630e-0",
-        "166060028445b9630e-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/dylan-sauerwein-GCb0hd35DeE-unsplash_1.png",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "16605966727a7b3c24": {
@@ -751,13 +740,13 @@
     "166059048173988bdc",
     "1660590691c25726e4",
     "1660583423c6284e7f",
+    "16641354149f7da181",
     "multicolumn",
     "1660595518d98d7a1a",
     "1661549302fee29342",
     "16605910197cc204bc",
     "16605924930e61ccea",
     "1664134675b5b6da4c",
-    "16606002844bcc595b",
     "16605966727a7b3c24",
     "16605968182bdcb829",
     "1660602420bfa3fd58",
