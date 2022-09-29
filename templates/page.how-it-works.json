@@ -38,6 +38,7 @@
     },
     "1660666023fda473f7": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "166066602309ab3ac1-0": {
           "type": "heading",
@@ -70,6 +71,7 @@
     },
     "1660666057268d14d7": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16606660573ebeea6f-0": {
           "type": "heading",
@@ -102,6 +104,7 @@
     },
     "16606661096da63aa4": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16606661090a784733-0": {
           "type": "heading",
@@ -134,6 +137,7 @@
     },
     "166067765832bd6608": {
       "type": "circle-multicolumn",
+      "disabled": true,
       "blocks": {
         "166067765800a10970-0": {
           "type": "column",
@@ -288,6 +292,7 @@
     },
     "1660679389a2de6e0e": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "166067938905563cbd-0": {
           "type": "heading",
@@ -332,6 +337,7 @@
     },
     "166067942533c0de5a": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16606794259f574c48-0": {
           "type": "heading",
