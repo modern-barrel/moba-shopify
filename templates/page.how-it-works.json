@@ -198,14 +198,14 @@
         "16606788299f4eec76-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>MOBA matures spirits just<br\/>like oak barrels. But faster.<\/p>",
+            "heading": "<p>The science of barrel maturation <\/p>",
             "heading_size": "h1"
           }
         },
         "16606788299f4eec76-1": {
           "type": "text",
           "settings": {
-            "text": "<p>And we've done the chemical analysis to prove it.<\/p>"
+            "text": "<p>Four main processes occur in barrel maturation to produce the flavors we love.<\/p>"
           }
         }
       },
@@ -229,9 +229,9 @@
         "16606788579c331e8d-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Add_a_heading.png",
+            "image": "shopify:\/\/shop_images\/Partitioning_bb2e98c7-3d93-4187-a321-b3900adcde08.png",
             "title": "",
-            "text": "<p>Oak barrels are charred and toasted to bring out specific flavor notes like vanilla, baking spices, and smoke. MOBA's wooden tiles are prepared in the same traditional ways. <\/p>",
+            "text": "<p>An exchange in flavors between the spirit and the wood tiles.  Our tiles are toasted and charred, just like barrel staves, to impart vanilla caramel, and smokey flavors to the spirit.  Off notes leave the spirit and are held by the char.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -239,9 +239,9 @@
         "16606788579c331e8d-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Heat.png",
+            "image": "shopify:\/\/shop_images\/Digestion.png",
             "title": "",
-            "text": "<p>Oak barrels heat up during the day and cool down at night. MOBA uses rapid temperature fluctuations to replicate that process and speed up digestion.<\/p><p><\/p>",
+            "text": "<p>Wood is somewhat soluble in alcohol, and over time both wooden barrels or tiles will dissolve slightly.  This helps create a rounder, more viscous mouthfeel that fans of barrel aged spirits tend to appreciate.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -249,9 +249,9 @@
         "16606788579c331e8d-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Oxygen.png",
+            "image": "shopify:\/\/shop_images\/Oxidation.png",
             "title": "",
-            "text": "<p>Oak barrels breathe. Whether from the headspace above the spirit or the leaks in the barrel, air facilitates the most important parts of maturation. MOBA introduces oxygen, which allows more complex fruit and floral notes to come forward.<\/p>",
+            "text": "<p>Oak barrels breathe. Whether from the headspace above the spirit or the leaks in the barrel, air facilitates the most important parts of maturation through the creation of acids.  Acetic acid (vinegar) is critical to maturation.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -259,9 +259,9 @@
         "6ef999b8-2e5f-46b3-9702-36341cca6133": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mixing.png",
+            "image": "shopify:\/\/shop_images\/Esterification.png",
             "title": "",
-            "text": "<p>Oak barrels often get transferred from one part of the rickhouse to another or are mixed by hand. MOBA's proprietary mixing creates a similar effect and increases the exchange of wood and spirit. <\/p>",
+            "text": "<p>The acids produced during oxidation react with larger molecules to create a family of molecules called esters.  Esters comprise the fruity and flowery notes that are found in barrel aged spirits.  <\/p>",
             "link_label": "",
             "link": ""
           }
