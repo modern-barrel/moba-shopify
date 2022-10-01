@@ -219,8 +219,8 @@
         "color_scheme": "background-1",
         "full_width": true,
         "image_overlap": false,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1660678858b8b9c132": {
@@ -286,8 +286,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "1660679389a2de6e0e": {
