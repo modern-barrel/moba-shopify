@@ -663,14 +663,14 @@
         "16606024208e934c67-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Your first 3 rounds are on us<\/p>",
+            "heading": "<p>Your first three rounds are on us<\/p>",
             "heading_size": "h1"
           }
         },
         "16606024208e934c67-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Each MOBA purchase comes with 3 free oak tile sets of your choice. So you can get your signature collection started, on the house.<\/p>"
+            "text": "<p>Each MOBA purchase comes with three free oak tile sets of your choice. So you can get your signature collection started, on the house.<\/p>"
           }
         }
       },
