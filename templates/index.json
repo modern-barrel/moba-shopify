@@ -684,7 +684,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "image_overlap": false,
-        "padding_top": 0,
+        "padding_top": 28,
         "padding_bottom": 28
       }
     },
