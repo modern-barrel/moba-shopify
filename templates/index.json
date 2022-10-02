@@ -88,7 +88,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Pour2.png",
             "title": "Step One",
-            "text": "<p>Pour in a bottle of your favorite spirit <\/p>",
+            "text": "<p>Add a bottle of your chosen spirit<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -98,7 +98,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Select_recipe_and_wood.png",
             "title": "Step Two",
-            "text": "<p>Choose the recipe, add wood tiles<\/p>",
+            "text": "<p>Choose you recipe, add wood tiles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -108,7 +108,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Close_up_MOBA_and_Go.png",
             "title": "Step Three",
-            "text": "<p>Close up MOBA.  Relax, that's it!<\/p>",
+            "text": "<p>Close up MOBA, it'll do the rest<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -118,7 +118,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Pour_brown_spirit.png",
             "title": "Step Four",
-            "text": "<p>Once notified, decant and enjoy.<\/p>",
+            "text": "<p>Once notified, decant and enjoy<\/p>",
             "link_label": "",
             "link": ""
           }
