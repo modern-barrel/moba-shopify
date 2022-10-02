@@ -251,7 +251,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Oxidation.png",
             "title": "",
-            "text": "<p>Oak barrels breathe. Whether from the headspace above the spirit or the leaks in the barrel, air facilitates the most important parts of maturation through the creation of acids.  Chief amongst these is acetic acid (vinegar), which is critical to maturation.<\/p>",
+            "text": "<p>Oak barrels breathe, so we make sure MOBA breathes too.  Oxygen facilitates the most important parts of maturation through the creation of acids.  Chief amongst these is acetic acid (vinegar), which is critical to maturation.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -379,6 +379,41 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1664724745bb681e22": {
+      "type": "rich-text",
+      "blocks": {
+        "1664724745853bb511-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Combining and impacting each of the above four mechanisms, is how MOBA allows you to enjoy your own barrel aged spirits in as little as a week instead of years.<\/p>"
+          }
+        },
+        "1664724745853bb511-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET MOBA",
+            "button_link": "shopify:\/\/products\/moba",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664724745853bb511-1",
+        "1664724745853bb511-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -391,6 +426,7 @@
     "166067882923f6ef01",
     "1660678858b8b9c132",
     "1660679389a2de6e0e",
-    "166067942533c0de5a"
+    "166067942533c0de5a",
+    "1664724745bb681e22"
   ]
 }
