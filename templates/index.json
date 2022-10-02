@@ -54,7 +54,7 @@
         "16605904811c0e296b-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Crafting sip-worthy spirits,<br\/>in four easy steps:<\/p>",
+            "heading": "<p>Crafting sip-worthy spirits in <br\/>four easy steps:<\/p>",
             "heading_size": "h1"
           }
         },
@@ -545,11 +545,19 @@
             "text": "<p>That means controlled, repeatable results that are perfect for your palate. Every single time.<\/p>",
             "text_style": "body"
           }
+        },
+        "f5782441-5f10-42d4-be6a-97afeda395d4": {
+          "type": "button",
+          "settings": {
+            "button_label": "HOW IT WORKS",
+            "button_link": "shopify:\/\/pages\/how-it-works"
+          }
         }
       },
       "block_order": [
         "1664134675fcd930fe-0",
-        "1664134675fcd930fe-1"
+        "1664134675fcd930fe-1",
+        "f5782441-5f10-42d4-be6a-97afeda395d4"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOBA_0303.jpg",
