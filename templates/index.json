@@ -98,7 +98,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Select_recipe_and_wood.png",
             "title": "Step Two",
-            "text": "<p>Choose you recipe, add wood tiles.<\/p>",
+            "text": "<p>Choose the recipe, add wood tiles.<\/p>",
             "link_label": "",
             "link": ""
           }
