@@ -205,7 +205,7 @@
         "16606788299f4eec76-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Four main processes occur in barrel maturation to produce the flavors we love.<\/p>"
+            "text": "<p>Four main processes occur in barrel maturation to produce the flavors we all love.<\/p>"
           }
         }
       },
@@ -231,7 +231,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Partitioning_bb2e98c7-3d93-4187-a321-b3900adcde08.png",
             "title": "",
-            "text": "<p>An exchange in flavors between the spirit and the wood tiles.  Our tiles are toasted and charred, just like barrel staves, to impart vanilla caramel, and smokey flavors to the spirit.  Off notes leave the spirit and are held by the char.<\/p>",
+            "text": "<p>During barrel aging, an exchange takes place between between the distilled spirit and the wood tiles.  Our tiles are toasted and charred, just like barrel staves, to impart vanilla, caramel, tannins, and other flavors to the spirit.  Any off notes present in the original spirit will be pulled out by the char.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -241,7 +241,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Digestion.png",
             "title": "",
-            "text": "<p>Wood is somewhat soluble in alcohol, and over time both wooden barrels or tiles will dissolve slightly.  This helps create a rounder, more viscous mouthfeel that fans of barrel aged spirits tend to appreciate.<\/p>",
+            "text": "<p>Wood is somewhat soluble in alcohol, and over time both wooden barrels or tiles will dissolve slightly.  This helps create a rounder, more viscous mouthfeel that fans of barrel aged spirits tend to appreciate.  MOBA uses moderate heating to accelerate this process substantially.  <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -251,7 +251,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Oxidation.png",
             "title": "",
-            "text": "<p>Oak barrels breathe. Whether from the headspace above the spirit or the leaks in the barrel, air facilitates the most important parts of maturation through the creation of acids.  Acetic acid (vinegar) is critical to maturation.<\/p>",
+            "text": "<p>Oak barrels breathe. Whether from the headspace above the spirit or the leaks in the barrel, air facilitates the most important parts of maturation through the creation of acids.  Chief amongst these is acetic acid (vinegar), which is critical to maturation.<\/p>",
             "link_label": "",
             "link": ""
           }
