@@ -231,7 +231,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Partitioning_bb2e98c7-3d93-4187-a321-b3900adcde08.png",
-            "title": "",
+            "title": "1: Exchange",
             "text": "<p>During barrel aging, an exchange takes place between between the distilled spirit and the wood tiles.  Our tiles are toasted and charred, just like barrel staves, to impart vanilla, caramel, tannins, and other flavors to the spirit.  Any off notes present in the original spirit will be pulled out by the char.<\/p>",
             "link_label": "",
             "link": ""
@@ -241,7 +241,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Digestion.png",
-            "title": "",
+            "title": "2.  Digestion",
             "text": "<p>Wood is somewhat soluble in alcohol, and over time both wooden barrels or tiles will dissolve slightly.  This helps create a rounder, more viscous mouthfeel that fans of barrel aged spirits tend to appreciate.  MOBA uses moderate heating to accelerate this process substantially.  <\/p>",
             "link_label": "",
             "link": ""
@@ -251,7 +251,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Oxidation.png",
-            "title": "",
+            "title": "3. Oxidation",
             "text": "<p>Oak barrels breathe, so we make sure MOBA breathes too.  Oxygen facilitates the most important parts of maturation through the creation of acids.  Chief amongst these is acetic acid (vinegar), which is critical to maturation.<\/p>",
             "link_label": "",
             "link": ""
@@ -261,7 +261,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Esterification.png",
-            "title": "",
+            "title": "4. Esterification",
             "text": "<p>The acids produced during oxidation react with larger molecules to create a family of molecules called esters (tthis process is also enhanced by mild heat).  Esters comprise the fruity, flowery, and nutty notes that are found in the finest barrel aged spirits.  <\/p>",
             "link_label": "",
             "link": ""
