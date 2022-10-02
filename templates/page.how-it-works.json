@@ -18,7 +18,7 @@
         "image": "shopify:\/\/shop_images\/MOBA_0137.jpg",
         "image_2": "shopify:\/\/shop_images\/Group_35.png",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
