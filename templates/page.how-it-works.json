@@ -297,14 +297,14 @@
         "166472608317253e39-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>When iteration is accessible, <br\/>mastery is inevitable.<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>When iteration is accessible, mastery is inevitable.<\/p>",
+            "heading_size": "h2"
           }
         },
         "166472608317253e39-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Through our own work and the work of the MOBA community at large, we expect to offer (and even suggest) the perfect flavor profile: yours.<\/p>"
+            "text": "<p>Through our own work and the work of the MOBA community at large, <br\/>get the ability to create the perfect flavor profile: yours.<\/p>"
           }
         },
         "166472608317253e39-2": {
