@@ -177,7 +177,18 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "9945917646655616230": {
+        "type": "shopify:\/\/apps\/variant-description-omg\/blocks\/app-embed\/dee11698-5b0b-4a0f-9562-ea29cbe9c77e",
+        "disabled": false,
+        "settings": {
+          "show_product_description": true,
+          "product_description_selector": "",
+          "custom_liquid": ""
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
