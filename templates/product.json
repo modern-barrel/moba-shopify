@@ -74,6 +74,14 @@
             "picker_type": "button"
           }
         },
+        "e3e32539-956b-479d-bb1b-2b44969bc038": {
+          "type": "shopify:\/\/apps\/variant-description-omg\/blocks\/app-block\/dee11698-5b0b-4a0f-9562-ea29cbe9c77e",
+          "settings": {
+            "show_product_description": true,
+            "css_class": "rte",
+            "custom_liquid": ""
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -87,6 +95,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -133,6 +142,7 @@
         "caption",
         "price",
         "variant_picker",
+        "e3e32539-956b-479d-bb1b-2b44969bc038",
         "quantity_selector",
         "buy_buttons",
         "description",
