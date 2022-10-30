@@ -23,7 +23,6 @@
         "7e25ef73-2357-40b2-987a-375dd13bfca0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0355.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -77,7 +76,7 @@
         "16630010587ab743c3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022, and our team will do its best to ship prior to that date. All orders will ship on a first come first serve basis. <strong>Should The Modern Barrel Company be unable to fulfill the orders it receives, payments will be refunded to customers in their entirety.<\/strong><\/p>"
+            "text": "<p>MOBA pre-orders will be collected until a minimum order quantity has been reached.  When the minimum order quantity has been reached, The Modern Barrel Company will contact customers with an update.  In the meantime, if you have any questions about your order, please reach out to info@modernbarrelco.com.  <strong>Should The Modern Barrel Company be unable to fulfill the orders it receives, payments will be refunded to customers in their entirety.<\/strong><\/p>"
           }
         }
       },
