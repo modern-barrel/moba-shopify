@@ -211,7 +211,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Take photos enjoying your custom spirit and share your projects by tagging @modernbarrelco on <a href=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\" target=\"_blank\" title=\"https:\/\/instagram.com\/modernbarrelco?igshid=YmMyMTA2M2Y=\">Instagram<\/a><\/p>",
+            "text": "<p>Take photos enjoying your custom spirit and share your projects by tagging @modernbarrelco on <a href=\"https:\/\/www.instagram.com\/modernbarrelco\/\" title=\"https:\/\/www.instagram.com\/modernbarrelco\/\">Instagram<\/a>! <\/p>",
             "text_style": "body"
           }
         }
@@ -228,7 +228,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
