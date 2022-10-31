@@ -1,14 +1,5 @@
 {
   "sections": {
-    "1664140470c586a2b1": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "accent-2",
-        "padding_top": 64,
-        "padding_bottom": 56
-      }
-    },
     "1661993924566b3c69": {
       "type": "rich-text",
       "disabled": true,
@@ -264,7 +255,6 @@
     }
   },
   "order": [
-    "1664140470c586a2b1",
     "1661993924566b3c69",
     "main",
     "multicolumn",
