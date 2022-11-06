@@ -199,6 +199,67 @@
         "padding_bottom": 36
       }
     },
+    "9f2fc205-6ce4-4c35-b70b-d45f2eceb470": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does MOBA distill alcohol?",
+            "icon": "question_mark",
+            "row_content": "<p>No, unfortunately that is illegal. MOBA offers you an even more important step in the flavor building process.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-0",
+        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-1",
+        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-2",
+        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -258,6 +319,7 @@
     "1661993924566b3c69",
     "main",
     "multicolumn",
+    "9f2fc205-6ce4-4c35-b70b-d45f2eceb470",
     "image-with-text",
     "product-recommendations"
   ]
