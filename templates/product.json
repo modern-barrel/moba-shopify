@@ -216,7 +216,7 @@
           "settings": {
             "heading": "How does MOBA work?",
             "icon": "none",
-            "row_content": "<p><a href=\"\/pages\/how-it-works\" title=\"How it works\">We have a page for that!<\/a><\/p>",
+            "row_content": "<p><a href=\"\/pages\/how-it-works\" title=\"How it works\">We have a page for that!  For more information, please reach out to info@modernbarrelco.com<\/a><\/p>",
             "page": ""
           }
         },
