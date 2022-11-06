@@ -206,7 +206,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Does MOBA distill alcohol?",
-            "icon": "question_mark",
+            "icon": "none",
             "row_content": "<p>No, unfortunately that is illegal. MOBA offers you an even more important step in the flavor building process.<\/p>",
             "page": ""
           }
@@ -214,14 +214,15 @@
         "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Can MOBA mature beer, wine, and other alcoholic beverages?",
+            "icon": "none",
+            "row_content": "<p>MOBA was originally designed to work best with distilled spirits. We've had the best results with a wide variety spirits and cocktails.  You won't break MOBA with other things like beer or wine, but we are still working on how to offer great recipes for our customers in those segments.<\/p>",
             "page": ""
           }
         },
         "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-2": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
@@ -231,6 +232,7 @@
         },
         "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-3": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
