@@ -147,6 +147,20 @@
         "padding_bottom": 0
       }
     },
+    "0961d99d-daf2-416b-86c5-94cfcbdf4afc": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "cover_image": "shopify:\/\/shop_images\/moba_kit.png",
+        "video_url": "https:\/\/youtu.be\/M6-0hoX3CDo",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1660583423c6284e7f": {
       "type": "image-with-text",
       "blocks": {
@@ -189,20 +203,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 52,
         "padding_bottom": 52
-      }
-    },
-    "0961d99d-daf2-416b-86c5-94cfcbdf4afc": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "cover_image": "shopify:\/\/shop_images\/moba_kit.png",
-        "video_url": "https:\/\/youtu.be\/M6-0hoX3CDo",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "16641354149f7da181": {
@@ -786,8 +786,8 @@
     "image_banner",
     "166059048173988bdc",
     "1660590691c25726e4",
-    "1660583423c6284e7f",
     "0961d99d-daf2-416b-86c5-94cfcbdf4afc",
+    "1660583423c6284e7f",
     "16641354149f7da181",
     "multicolumn",
     "1661549302fee29342",
