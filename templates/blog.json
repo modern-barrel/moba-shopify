@@ -3,10 +3,10 @@
     "166076155954fa0c22": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBA_0541.jpg",
+        "image": "shopify:\/\/shop_images\/moba_kit.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
