@@ -20,7 +20,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "GET MOBA",
+            "button_label_1": "PRE-ORDER MOBA",
             "button_link_1": "shopify:\/\/products\/moba",
             "button_style_secondary_1": true,
             "button_label_2": "",
