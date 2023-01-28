@@ -5,7 +5,6 @@
       "blocks": {
         "vendor": {
           "type": "text",
-          "name": "vendor",
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -13,14 +12,11 @@
         },
         "title": {
           "type": "title",
-          "name": "product-title",
           "settings": {
-
           }
         },
         "caption": {
           "type": "text",
-          "name": "product-subtitle",
           "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
@@ -57,11 +53,9 @@
         "title",
         "caption",
         "price",
-        "variant_picker",
         "product-variant-description",
         "quantity_selector",
-        "buy_buttons",
-        "description"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
