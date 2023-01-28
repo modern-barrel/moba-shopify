@@ -2,6 +2,34 @@
   "sections": {
     "main": {
       "type": "main-page-faq",
+      "blocks": {
+        "ca9a76d8-e6c7-4084-a9bc-de573e3dd9d1": {
+          "type": "faq",
+          "settings": {
+            "question": "Does MOBA distill alcohol?",
+            "answer": "<p>No, unfortunately that is illegal. MOBA offers you an even more important step in the flavor building process.<\/p>"
+          }
+        },
+        "e7cc388f-ffa6-4a70-9556-38027a1b40e6": {
+          "type": "faq",
+          "settings": {
+            "question": "How it works?",
+            "answer": "<p>We have a <a href=\"\/pages\/how-it-works\" title=\"How it works\">page for that<\/a>!  Not enough information, please reach out to us so we can update our product information<\/p>"
+          }
+        },
+        "1af433ab-ad65-4e95-a17e-8ba8d9b103a9": {
+          "type": "faq",
+          "settings": {
+            "question": "Can MOBA mature beer, wine, and other alcoholic beverages?",
+            "answer": "<p>In short, <strong>not at the moment<\/strong>. We are hard at work on increasing are offerings and creating great recipes for our customers in those segments<\/p><p><\/p><p>We've had the best results with a wide variety spirits and cocktails.  You won't break MOBA with other things like beer or wine.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ca9a76d8-e6c7-4084-a9bc-de573e3dd9d1",
+        "e7cc388f-ffa6-4a70-9556-38027a1b40e6",
+        "1af433ab-ad65-4e95-a17e-8ba8d9b103a9"
+      ],
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
