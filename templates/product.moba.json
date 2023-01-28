@@ -1,0 +1,187 @@
+{
+  "sections": {
+    "product-details": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "name": "vendor",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "name": "product-title",
+          "settings": {
+
+          }
+        },
+        "caption": {
+          "type": "text",
+          "name": "product-subtitle",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "product-variant-description": {
+          "type": "shopify:\/\/apps\/variant-description-omg\/blocks\/app-block\/dee11698-5b0b-4a0f-9562-ea29cbe9c77e",
+          "settings": {
+            "show_product_description": true,
+            "css_class": "rte",
+            "custom_liquid": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "materials": {
+          "name": "Materials",
+          "type": "collapsible_tab",
+          "disabled": false,
+          "settings": {
+            "heading": "Materials",
+            "icon": "plant",
+            "content": "<p>MOBA comes with food grade stainless steel and polypropylene components.  The wooden tiles are wrapped in food grade paper.<\/p>",
+            "page": ""
+          }
+        },
+        "shipping": {
+          "name": "Shipping",
+          "type": "collapsible_tab",
+          "disabled": false,
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "<p>Free shipping for MOBA, and in the unlikely case you need to return it, you can reach out to us and we will make it right.<\/p>",
+            "page": ""
+          }
+        },
+        "dimensions": {
+          "name": "Dimensions",
+          "type": "collapsible_tab",
+          "disabled": false,
+          "settings": {
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "<p>Width: 5.6in (142mm)<\/p><p>Height: 12.1in (308mm)<\/p>",
+            "page": ""
+          }
+        },
+        "care-instructions": {
+          "name": "Care Instructions",
+          "type": "collapsible_tab",
+          "disabled": false,
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "heart",
+            "content": "<p>The stainless vessel and polypropylene top can be washed with warm water and soap. Clean the outside of MOBA with a damp towel.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "product-variant-description",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "materials",
+        "shipping",
+        "dimensions",
+        "care-instructions"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "stacked",
+        "media_size": "large",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "distill-alcohol": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does MOBA distill alcohol?",
+            "icon": "none",
+            "row_content": "<p>No, unfortunately that is illegal. MOBA offers you an even more important step in the flavor building process.<\/p>",
+            "page": ""
+          }
+        },
+        "how-it-works": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does MOBA work?",
+            "icon": "none",
+            "row_content": "<p><a href=\"\/pages\/how-it-works\" title=\"How it works\">We have a page for that!  For more information, please reach out to info@modernbarrelco.com<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "alcoholic-beverages": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can MOBA mature beer, wine, and other alcoholic beverages?",
+            "icon": "none",
+            "row_content": "<p>MOBA was originally designed to work best with distilled spirits. We've had the best results with a wide variety spirits and cocktails.  You won't break MOBA with other things like beer or wine, but we are still working on how to offer great recipes for our customers in those segments.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "distill-alcohol",
+        "how-it-works",
+        "alcoholic-beverages"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "product-details",
+    "faq"
+  ]
+}
