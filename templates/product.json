@@ -1,42 +1,11 @@
 {
   "sections": {
-    "1661993924566b3c69": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "1661993924702a274c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Get An Exclusive 25% Discount<\/p>",
-            "heading_size": "h0"
-          }
-        },
-        "1661993924702a274c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We're launching soon. Spirit Maturation Innovators will get an exclusive launch discount applied at check out by pre-ordering now. MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1661993924702a274c-0",
-        "1661993924702a274c-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "image_overlap": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "main": {
+    "product-details": {
       "type": "main-product",
       "blocks": {
         "vendor": {
           "type": "text",
+          "name": "vendor",
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -44,11 +13,15 @@
         },
         "title": {
           "type": "title",
+          "name": "product-title",
           "settings": {
+
           }
         },
         "caption": {
           "type": "text",
+          "name": "product-subtitle",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
@@ -59,13 +32,7 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "e3e32539-956b-479d-bb1b-2b44969bc038": {
+        "product-variant-description": {
           "type": "shopify:\/\/apps\/variant-description-omg\/blocks\/app-block\/dee11698-5b0b-4a0f-9562-ea29cbe9c77e",
           "settings": {
             "show_product_description": true,
@@ -90,9 +57,10 @@
           "settings": {
           }
         },
-        "collapsible-row-0": {
+        "materials": {
+          "name": "Materials",
           "type": "collapsible_tab",
-          "disabled": true,
+          "disabled": false,
           "settings": {
             "heading": "Materials",
             "icon": "plant",
@@ -100,9 +68,10 @@
             "page": ""
           }
         },
-        "collapsible-row-1": {
+        "shipping": {
+          "name": "Shipping",
           "type": "collapsible_tab",
-          "disabled": true,
+          "disabled": false,
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
@@ -110,9 +79,10 @@
             "page": ""
           }
         },
-        "collapsible-row-2": {
+        "dimensions": {
+          "name": "Dimensions",
           "type": "collapsible_tab",
-          "disabled": true,
+          "disabled": false,
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
@@ -120,9 +90,10 @@
             "page": ""
           }
         },
-        "collapsible-row-3": {
+        "care-instructions": {
+          "name": "Care Instructions",
           "type": "collapsible_tab",
-          "disabled": true,
+          "disabled": false,
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
@@ -137,14 +108,14 @@
         "caption",
         "price",
         "variant_picker",
-        "e3e32539-956b-479d-bb1b-2b44969bc038",
+        "product-variant-description",
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3"
+        "materials",
+        "shipping",
+        "dimensions",
+        "care-instructions"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -157,56 +128,10 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Free Shipping",
-            "text": "<p>We will get MOBA to you with free shipping inside of the continental United States. MOBA pre-orders received before October 31st will have a target ship date of 12\/15\/2022, and our team will do its best to ship prior to that date. All orders will ship on a first come first serve basis. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>If you have any issues with your machine please reach out to us, and we will work to make it right. Should The Modern Barrel Company be unable to fulfill the orders it receives, payments will be refunded to customers in their entirety.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "9f2fc205-6ce4-4c35-b70b-d45f2eceb470": {
+    "faq": {
       "type": "collapsible-content",
       "blocks": {
-        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-0": {
+        "distill-alcohol": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Does MOBA distill alcohol?",
@@ -215,7 +140,7 @@
             "page": ""
           }
         },
-        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-2": {
+        "how-it-works": {
           "type": "collapsible_row",
           "settings": {
             "heading": "How does MOBA work?",
@@ -224,7 +149,7 @@
             "page": ""
           }
         },
-        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-1": {
+        "alcoholic-beverages": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Can MOBA mature beer, wine, and other alcoholic beverages?",
@@ -232,23 +157,12 @@
             "row_content": "<p>MOBA was originally designed to work best with distilled spirits. We've had the best results with a wide variety spirits and cocktails.  You won't break MOBA with other things like beer or wine, but we are still working on how to offer great recipes for our customers in those segments.<\/p>",
             "page": ""
           }
-        },
-        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-3": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
-        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-0",
-        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-2",
-        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-1",
-        "template--14834434932779__9f2fc205-6ce4-4c35-b70b-d45f2eceb470-1667697005d2163420-3"
+        "distill-alcohol",
+        "how-it-works",
+        "alcoholic-beverages",
       ],
       "settings": {
         "caption": "",
@@ -265,8 +179,9 @@
         "padding_bottom": 36
       }
     },
-    "image-with-text": {
+    "join-the-conversation": {
       "type": "image-with-text",
+      "name": "Join the conversation",
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -321,11 +236,9 @@
     }
   },
   "order": [
-    "1661993924566b3c69",
-    "main",
-    "multicolumn",
-    "9f2fc205-6ce4-4c35-b70b-d45f2eceb470",
-    "image-with-text",
+    "product-details",
+    "faq",
+    "join-the-conversation",
     "product-recommendations"
   ]
 }
