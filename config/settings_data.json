@@ -127,7 +127,7 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "42848927-2d0f-4827-a5d1-a7c09582e12e": {
+          "footer-image": {
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/logo_type_for_header.png",
@@ -135,17 +135,25 @@
               "alignment": ""
             }
           },
-          "footer-0": {
+          "footer-nav": {
             "type": "link_list",
             "settings": {
               "heading": "",
               "menu": "footer"
             }
+          },
+          "footer-nav-policy": {
+            "type": "link_list",
+            "settings": {
+              "heading": "",
+              "menu": "policy-menu"
+            }
           }
         },
         "block_order": [
-          "42848927-2d0f-4827-a5d1-a7c09582e12e",
-          "footer-0"
+          "footer-image",
+          "footer-nav",
+          "footer-nav-policy"
         ],
         "settings": {
           "color_scheme": "inverse",
@@ -156,8 +164,8 @@
           "enable_language_selector": false,
           "payment_enable": false,
           "margin_top": 0,
-          "padding_top": 4,
-          "padding_bottom": 4
+          "padding_top": 0,
+          "padding_bottom": 0
         }
       },
       "main-password-header": {
