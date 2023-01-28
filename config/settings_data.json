@@ -141,11 +141,19 @@
               "heading": "",
               "menu": "footer"
             }
+          },
+          "b4de9249-0b4a-4798-8163-0e17ee827a64": {
+            "type": "link_list",
+            "settings": {
+              "heading": "",
+              "menu": "policy-menu"
+            }
           }
         },
         "block_order": [
           "42848927-2d0f-4827-a5d1-a7c09582e12e",
-          "footer-0"
+          "footer-0",
+          "b4de9249-0b4a-4798-8163-0e17ee827a64"
         ],
         "settings": {
           "color_scheme": "inverse",

@@ -5,7 +5,6 @@
       "blocks": {
         "vendor": {
           "type": "text",
-          "name": "vendor",
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -13,14 +12,11 @@
         },
         "title": {
           "type": "title",
-          "name": "product-title",
           "settings": {
-
           }
         },
         "caption": {
           "type": "text",
-          "name": "product-subtitle",
           "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
@@ -58,9 +54,7 @@
           }
         },
         "materials": {
-          "name": "Materials",
           "type": "collapsible_tab",
-          "disabled": false,
           "settings": {
             "heading": "Materials",
             "icon": "plant",
@@ -69,9 +63,7 @@
           }
         },
         "shipping": {
-          "name": "Shipping",
           "type": "collapsible_tab",
-          "disabled": false,
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
@@ -80,9 +72,7 @@
           }
         },
         "dimensions": {
-          "name": "Dimensions",
           "type": "collapsible_tab",
-          "disabled": false,
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
@@ -91,9 +81,7 @@
           }
         },
         "care-instructions": {
-          "name": "Care Instructions",
           "type": "collapsible_tab",
-          "disabled": false,
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
@@ -107,7 +95,6 @@
         "title",
         "caption",
         "price",
-        "variant_picker",
         "product-variant-description",
         "quantity_selector",
         "buy_buttons",
