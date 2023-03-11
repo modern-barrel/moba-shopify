@@ -23,6 +23,11 @@
             "text_style": "subtitle"
           }
         },
+        "ffb8945d-c9ed-4006-9d6e-b42cd8d45964": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -34,6 +39,12 @@
             "show_product_description": true,
             "css_class": "rte",
             "custom_liquid": ""
+          }
+        },
+        "33521943-d458-4029-a371-46f6e795bdcb": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -52,8 +63,10 @@
         "vendor",
         "title",
         "caption",
+        "ffb8945d-c9ed-4006-9d6e-b42cd8d45964",
         "price",
         "product-variant-description",
+        "33521943-d458-4029-a371-46f6e795bdcb",
         "quantity_selector",
         "buy_buttons"
       ],

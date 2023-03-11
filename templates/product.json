@@ -17,7 +17,6 @@
         },
         "caption": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
@@ -34,6 +33,12 @@
             "show_product_description": true,
             "css_class": "rte",
             "custom_liquid": ""
+          }
+        },
+        "2c08c063-813d-4db7-855a-2b85f544c85a": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -88,6 +93,16 @@
             "content": "<p>The stainless vessel and polypropylene top can be washed with warm water and soap. Clean the outside of MOBA with a damp towel.<\/p>",
             "page": ""
           }
+        },
+        "a0a44f00-05a2-4436-adfa-7248a685a0d3": {
+          "type": "shopify:\/\/apps\/variant-description-omg\/blocks\/app-metafield\/dee11698-5b0b-4a0f-9562-ea29cbe9c77e",
+          "settings": {
+            "namespace": "",
+            "key": "",
+            "show_product_description": false,
+            "product_description_selector": "",
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -96,13 +111,15 @@
         "caption",
         "price",
         "product-variant-description",
+        "2c08c063-813d-4db7-855a-2b85f544c85a",
         "quantity_selector",
         "buy_buttons",
         "description",
         "materials",
         "shipping",
         "dimensions",
-        "care-instructions"
+        "care-instructions",
+        "a0a44f00-05a2-4436-adfa-7248a685a0d3"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -117,6 +134,7 @@
     },
     "faq": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "distill-alcohol": {
           "type": "collapsible_row",
