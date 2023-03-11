@@ -117,6 +117,7 @@
     },
     "faq": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "distill-alcohol": {
           "type": "collapsible_row",
