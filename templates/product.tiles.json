@@ -25,6 +25,7 @@
         },
         "ffb8945d-c9ed-4006-9d6e-b42cd8d45964": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
