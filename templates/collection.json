@@ -17,7 +17,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/moba_seen_ren_-_Edited_1.png",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
