@@ -20,7 +20,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "PRE-ORDER MOBA",
+            "button_label_1": "ORDER MOBA",
             "button_link_1": "shopify:\/\/products\/moba",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -772,7 +772,7 @@
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "PRE-ORDER MOBA",
+        "button_label": "ORDER MOBA",
         "button_link": "shopify:\/\/products\/moba",
         "color_scheme": "background-1",
         "columns_mobile": "1",
