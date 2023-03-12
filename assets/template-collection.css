@@ -1,3 +1,10 @@
+.header-wrapper {
+  background: #102530;
+  margin-bottom: 100px;
+}
+
+
+
 @media screen and (max-width: 749px) {
   .collection .grid__item:only-child {
     flex: 0 0 100%;
