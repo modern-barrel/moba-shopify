@@ -1,0 +1,803 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "e9306c93-f83d-4669-aea1-fc3a04d66c0b": {
+          "type": "heading",
+          "settings": {
+            "heading": "ALTERNATIVE CONTENT Customize any spirit to the perfect flavor profile: yours.",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Meet MOBA, the world's first electric barrel. The only at-home device that lets you create signature spirits you won't find on any shelf.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "ORDER MOBA",
+            "button_link_1": "shopify:\/\/products\/moba",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "e9306c93-f83d-4669-aea1-fc3a04d66c0b",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/moba_seen_ren_-_Edited_2.png",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "166059048173988bdc": {
+      "type": "rich-text",
+      "blocks": {
+        "16605904811c0e296b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Crafting sip-worthy spirits in <br\/>four easy steps:<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16605904811c0e296b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Just add the spirit of your choice and a set of oak tiles. <br\/>MOBA will take care of the rest. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16605904811c0e296b-0",
+        "16605904811c0e296b-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "1660590691c25726e4": {
+      "type": "multicolumn",
+      "blocks": {
+        "166059069102fc72a8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pour4.png",
+            "title": "Step One",
+            "text": "<p>Add a bottle of your chosen spirit.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059069102fc72a8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Select_recipe_and_wood.png",
+            "title": "Step Two",
+            "text": "<p>Choose the recipe, add wood tiles.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059069102fc72a8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Close_up_MOBA_and_Go.png",
+            "title": "Step Three",
+            "text": "<p>Close up MOBA, it'll do the rest!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "93fed546-f61b-49af-a16e-5b24c7d80832": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pour_brown_spirit.png",
+            "title": "Step Four",
+            "text": "<p>When notified, decant and enjoy!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166059069102fc72a8-0",
+        "166059069102fc72a8-1",
+        "166059069102fc72a8-2",
+        "93fed546-f61b-49af-a16e-5b24c7d80832"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0961d99d-daf2-416b-86c5-94cfcbdf4afc": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "cover_image": "shopify:\/\/shop_images\/moba_kit.png",
+        "video_url": "https:\/\/youtu.be\/M6-0hoX3CDo",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1660583423c6284e7f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1660583423c31b72e9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Maturing spirits can take decades. MOBA takes a week.",
+            "heading_size": "h1"
+          }
+        },
+        "1660583423c31b72e9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>MOBA's revolutionary technology follows the same chemical process as traditional oak barrels — but speeds it up. So you get years of  flavor in a fraction of the time. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660583423c31b72e9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/pages\/how-it-works"
+          }
+        }
+      },
+      "block_order": [
+        "1660583423c31b72e9-0",
+        "1660583423c31b72e9-1",
+        "1660583423c31b72e9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/metal_table_render_woman_94e31bf2-e742-481d-bc49-c9905ad0de8f.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "16641354149f7da181": {
+      "type": "rich-text",
+      "blocks": {
+        "1664135414fe426bc6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Any spirit, tailored to your personal flavor preference.<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1664135414fe426bc6-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0877_2.jpg",
+            "title": "",
+            "text": "<p>Turn up the smokiness in your favorite tequila<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0867_2.jpg",
+            "title": "",
+            "text": "<p>Create a rum-bourbon blend no producer has released<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0856_1.jpg",
+            "title": "",
+            "text": "<p>Put a spicier twist on your classic Manhattan<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "083ed602-6a5f-43eb-8288-1d0edfcc1499": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0840_2.jpg",
+            "title": "",
+            "text": "<p>Transform a mixing whiskey into a sipper you can drink neat<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column3",
+        "column2",
+        "083ed602-6a5f-43eb-8288-1d0edfcc1499"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "1661549302fee29342": {
+      "type": "circle-multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1661549302a91c3069-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0840_ff7f6db4-28b6-455f-8a60-cb7bf8621630.jpg",
+            "title": "",
+            "text": "<p>Impart more refined taste<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1661549302a91c3069-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0852_f850cf41-163b-46d8-a724-46f997d06b4b.jpg",
+            "title": "",
+            "text": "<p>Remove harsh alcohol flavors<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1661549302a91c3069-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0877_31fc6c91-b30f-4019-80fc-6887d37a99e1.jpg",
+            "title": "",
+            "text": "<p>Add unique characteristics<br\/>from wood<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661549302a91c3069-0",
+        "1661549302a91c3069-1",
+        "1661549302a91c3069-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16605910197cc204bc": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1660591019dbb04e86-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>What’s your pleasure?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1660591019dbb04e86-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The oak tiles used in each recipe drive the final flavor profile.  Each set of oak tiles has been traditionally prepared to bring out the flavors you love most. Without any guesswork. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1660591019dbb04e86-0",
+        "1660591019dbb04e86-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 52,
+        "padding_bottom": 0
+      }
+    },
+    "16605924930e61ccea": {
+      "type": "custom-multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1660592493d3f17105-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sweet-plus.png",
+            "title": "Sweet",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660592493d3f17105-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/oak.png",
+            "title": "Oak",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660592493d3f17105-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/baking-spices_64b12b6b-0d5f-4a64-ad96-ac3a2d0a20db.png",
+            "title": "Spice",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fe919408-b6dc-4fd4-b496-cf0d534ed691": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smokey.png",
+            "title": "Smoke",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "34fe475a-4484-4b6e-840d-d1fb9ea5e64d": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8c90ad09-9a09-4863-a0aa-1feecbb249b0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660592493d3f17105-0",
+        "1660592493d3f17105-1",
+        "1660592493d3f17105-2",
+        "fe919408-b6dc-4fd4-b496-cf0d534ed691",
+        "34fe475a-4484-4b6e-840d-d1fb9ea5e64d",
+        "8c90ad09-9a09-4863-a0aa-1feecbb249b0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "SHOP ALL OAK TILES",
+        "button_link": "shopify:\/\/collections",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16605966727a7b3c24": {
+      "type": "testimonial",
+      "blocks": {
+        "a4172a08-3223-4dbc-a787-556c90b3bfd5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“The fact that I can make a smooth dark rum without it being too sweet is amazing.”",
+            "text": "<p>Brian K, Arlington VA<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "933db496-313f-4580-99cf-f7673808222e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“We love being able to mature barrel aged spirit blends that don’t exist yet.”",
+            "text": "<p>Michael & Sylvia L, San Francisco<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059667233893b0f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“I bought everclear from a local distiller and turned it into a sipping whiskey.”",
+            "text": "<p>Rich J, Philadelphia, PA<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059667233893b0f-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“I was skeptical at first, but was really impressed by the way the tequila came out. It took a bottle that cost less than $20 and turned it into something that tasted like $70 or $80 per bottle.”",
+            "text": "<p>Michael L, Chicago, IL<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a4172a08-3223-4dbc-a787-556c90b3bfd5",
+        "933db496-313f-4580-99cf-f7673808222e",
+        "166059667233893b0f-0",
+        "166059667233893b0f-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "1664134675b5b6da4c": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664134675fcd930fe-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brought to you by spirit lovers, who also happen to be chemists.",
+            "heading_size": "h1"
+          }
+        },
+        "1664134675fcd930fe-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That means controlled, repeatable results that are perfect for your palate. Every single time.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "f5782441-5f10-42d4-be6a-97afeda395d4": {
+          "type": "button",
+          "settings": {
+            "button_label": "HOW IT WORKS",
+            "button_link": "shopify:\/\/pages\/how-it-works"
+          }
+        }
+      },
+      "block_order": [
+        "1664134675fcd930fe-0",
+        "1664134675fcd930fe-1",
+        "f5782441-5f10-42d4-be6a-97afeda395d4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOBA_0303.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1660595518d98d7a1a": {
+      "type": "testimonial",
+      "disabled": true,
+      "blocks": {
+        "166059551844c338cc-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“The fact that I can make a smooth dark rum without much sweetness is amazing.”",
+            "text": "<p>Brian K, Arlington VA<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166059551844c338cc-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "“We love being able to mature barrel aged spirit blends that don’t exist yet.”",
+            "text": "<p>Michael & Sylvia L, San Francisco<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166059551844c338cc-0",
+        "166059551844c338cc-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 48
+      }
+    },
+    "16605968182bdcb829": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1660596818e778b168-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_2.png",
+            "title": "",
+            "text": "<p>✅     Takes 1 week<br\/>✅     Adds unique flavor profiles<br\/>✅     Completely hands-off<br\/>✅     Tried-and-tested results<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1660596818e778b168-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mini_Barrels_Spirals_1.png",
+            "title": "",
+            "text": "<p>❌     Takes months - years<br\/>❌      Adds oak flavor only<br\/>❌      Taste and top up often<br\/>❌       Result can be undrinkable<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660596818e778b168-0",
+        "1660596818e778b168-1"
+      ],
+      "settings": {
+        "title": "The only tried-and-tested way  to customize spirits at home",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1660602420bfa3fd58": {
+      "type": "rich-text",
+      "blocks": {
+        "16606024208e934c67-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Your first three rounds are on us<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16606024208e934c67-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use code FIRST3ONUS when purchasing your MOBA to get your first three sets of tiles free!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16606024208e934c67-0",
+        "16606024208e934c67-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "image_overlap": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1660602376d46c8bf8": {
+      "type": "custom-multicolumn",
+      "blocks": {
+        "16606023761b54cff2-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0786.jpg",
+            "title": "Sip",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16606023761b54cff2-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0066.jpg",
+            "title": "Mix",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16606023761b54cff2-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0253.jpg",
+            "title": "Share",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "dbd1f282-3269-482a-aac3-e2e7c70537b0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOBA_0355_c4f1149e-3726-4437-a8a8-b511a0d93eb4.jpg",
+            "title": "Gift",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16606023761b54cff2-0",
+        "16606023761b54cff2-1",
+        "16606023761b54cff2-2",
+        "dbd1f282-3269-482a-aac3-e2e7c70537b0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "ORDER MOBA",
+        "button_link": "shopify:\/\/products\/moba",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 44
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "166059048173988bdc",
+    "1660590691c25726e4",
+    "0961d99d-daf2-416b-86c5-94cfcbdf4afc",
+    "1660583423c6284e7f",
+    "16641354149f7da181",
+    "multicolumn",
+    "1661549302fee29342",
+    "16605910197cc204bc",
+    "16605924930e61ccea",
+    "16605966727a7b3c24",
+    "1664134675b5b6da4c",
+    "1660595518d98d7a1a",
+    "16605968182bdcb829",
+    "1660602420bfa3fd58",
+    "1660602376d46c8bf8"
+  ]
+}
